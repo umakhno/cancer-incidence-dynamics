@@ -1,0 +1,4 @@
+﻿Form,Matrix operation,Change of slope,Change of level
+Uniform growth of intensity,"change of the operator, u -> u(1 + beta)",0,(1 + beta)^k
+Detection lead,"propagation of the state, A^Delta",-(k - 1) Delta / (t + Delta),((t + Delta)/t)^(k - 1)
+Stage removal,"change of the reading, k -> k - 1",-1 exactly,not specified

@@ -1,0 +1,5 @@
+﻿,Stage 1,Stage 3,Stage 6,Interpretation
+Elasticity of the level with respect to u_j,0.9938,0.9938,0.9938,the sum equals k
+Elasticity of the slope with respect to u_j,-0.0012,-0.0012,-0.0012,close to zero
+Slope after complete removal,4.2726,4.2726,4.2726,Delta-LLA = -1
+Ratio of levels after removal,127.9704,127.9704,127.9704,analytical approximation 128.0

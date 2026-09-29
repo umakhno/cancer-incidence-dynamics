@@ -1,0 +1,9 @@
+﻿Notation,Meaning
+a,"one-year age, a = 0, ..., 64"
+t,calendar year
+c = t - a,year of birth
+N_a(t),state without colorectal cancer at age a in year t
+U_a(t),latent/undiagnosed CRC
+D_a(t),diagnosed CRC
+delta(t),diagnosis intensity
+mu_c,excess cancer mortality

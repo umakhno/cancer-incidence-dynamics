@@ -1,0 +1,9 @@
+﻿Quantity,Colorectal,Pan-cancer
+Fit window,25-50,30-55
+k (1977),5.375,3.731
+k (2021),4.076,3.643
+Change in k,-1.299,-0.088
+"Change in lambda, %",-22.985,5.555
+F2021/F1977 at age 25,3.164,1.304
+F2021/F1977 at age 80,0.623,1.218
+Mean Delta-LLA,-1.609,-0.15

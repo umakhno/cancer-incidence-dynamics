@@ -1,0 +1,8 @@
+﻿Model,p,Fitted,RSS,"RMS, %",AIC,AICc,dAIC,dAICc
+Null: one curve for both releases,2,k = 6,0.826,28.735,-20.941,-19.227,42.575,20.542
+A: growth of intensity,3,k = 6,0.273,16.525,-30.006,-26.006,33.51,13.763
+"B: lead, level constrained",3,"k = 6, Delta = 3.53",0.111,10.524,-39.029,-35.029,24.486,4.739
+B': lead with free level,4,"k = 6, Delta = 8.95",0.038,6.152,-47.768,-39.768,15.747,0.0
+"C: stage removal, level constrained",3,"k = 9, m = 1",20.571,143.427,13.213,17.213,76.729,56.982
+C': stage removal with free level,4,"k = 6, m = 1",0.047,6.882,-45.525,-37.525,17.991,2.244
+D: two subpopulations,6,"k1 = 2.27, k2 = 7.01",0.005,2.292,-63.516,-35.516,0.0,4.253

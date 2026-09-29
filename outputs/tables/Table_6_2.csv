@@ -1,0 +1,7 @@
+﻿Procedure,Criterion,Window,"Estimate of Delta, years"
+Cumulative-incidence level fit,levels of log F,25-60,3.86
+"Matrix form, level constrained (B)",mixed level and shape,25-50,3.53
+"Matrix form, level free (B')",shape,25-50,8.95
+"Slope analysis, 25-50 values of the 25-60 contrast",contrast of local log-log slopes,25-50,13.83
+"Slope analysis, slopes re-estimated on 25-50 only",contrast of local log-log slopes,25-50,13.38
+Slope analysis,contrast of local log-log slopes,25-60,18.31

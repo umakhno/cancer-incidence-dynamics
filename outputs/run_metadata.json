@@ -1,0 +1,28 @@
+{
+  "seed": 20260918,
+  "n_releases": 16,
+  "slope_age_offset": 0,
+  "matrix_age_offset": 5,
+  "crc_fit_window": [
+    25,
+    50
+  ],
+  "pan_fit_window": [
+    30,
+    55
+  ],
+  "slope_contrast_grid": [
+    25.0,
+    30.0,
+    35.0,
+    40.0,
+    45.0,
+    50.0,
+    55.0,
+    60.0
+  ],
+  "chapter_5_noise_sigma": 0.1289648034778736,
+  "chapter_7_covariance_simulations": 3000,
+  "appendix_B_simulations": 3000,
+  "runtime_seconds": 26.139329195022583
+}

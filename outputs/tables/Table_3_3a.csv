@@ -1,0 +1,9 @@
+﻿Series,Form,Parameter,p,RSS,AICc,dAICc,dAICc (ages 25-60)
+Colorectal,detection lead,Delta = 13.83 years,1,0.598,-5.84,0.874,5.49
+Colorectal,stage removal,j = 1.396,1,0.517,-6.714,0.0,0.0
+Colorectal,slow growth,"a = -2.614, b = 0.338",2,0.478,2.824,9.537,3.968
+Colorectal,uniform growth,Delta-LLA = 0,0,12.216,7.266,13.979,16.975
+Pan-cancer,detection lead,Delta = 0.36 years,1,0.465,-7.346,4.895,2.989
+Pan-cancer,stage removal,j = 0.080,1,0.434,-7.754,4.487,1.506
+Pan-cancer,slow growth,"a = 2.889, b = -0.825",2,0.206,-2.221,10.02,0.077
+Pan-cancer,uniform growth,Delta-LLA = 0,0,0.473,-12.241,0.0,0.0
