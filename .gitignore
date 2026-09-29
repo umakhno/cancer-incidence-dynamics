@@ -11,7 +11,6 @@ venv/
 env/
 
 # Raw/source data
-data/
 
 # Old/intermediate analysis versions
 dissertation_analysis.py

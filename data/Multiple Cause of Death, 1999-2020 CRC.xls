@@ -1,0 +1,1087 @@
+"Notes"	"Year"	"Year Code"	"Five-Year Age Groups"	"Five-Year Age Groups Code"	"Sex"	"Sex Code"	Deaths	Population	Crude Rate
+	"1999"	"1999"	"< 1 year"	"1"	"Female"	"F"	Suppressed	1852123	Suppressed
+	"1999"	"1999"	"< 1 year"	"1"	"Male"	"M"	0	1943639	Unreliable
+	"1999"	"1999"	"1-4 years"	"1-4"	"Female"	"F"	0	7493614	Unreliable
+	"1999"	"1999"	"1-4 years"	"1-4"	"Male"	"M"	0	7846168	Unreliable
+	"1999"	"1999"	"5-9 years"	"5-9"	"Female"	"F"	0	10052618	Unreliable
+	"1999"	"1999"	"5-9 years"	"5-9"	"Male"	"M"	0	10553842	Unreliable
+	"1999"	"1999"	"10-14 years"	"10-14"	"Female"	"F"	0	9855664	Unreliable
+	"1999"	"1999"	"10-14 years"	"10-14"	"Male"	"M"	Suppressed	10357700	Suppressed
+	"1999"	"1999"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	9761569	Suppressed
+	"1999"	"1999"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	10323033	Suppressed
+	"1999"	"1999"	"20-24 years"	"20-24"	"Female"	"F"	16	9098615	Unreliable
+	"1999"	"1999"	"20-24 years"	"20-24"	"Male"	"M"	22	9492814	0.2
+	"1999"	"1999"	"25-29 years"	"25-29"	"Female"	"F"	30	9695967	0.3
+	"1999"	"1999"	"25-29 years"	"25-29"	"Male"	"M"	56	9879090	0.6
+	"1999"	"1999"	"30-34 years"	"30-34"	"Female"	"F"	93	10249123	0.9
+	"1999"	"1999"	"30-34 years"	"30-34"	"Male"	"M"	98	10354226	0.9
+	"1999"	"1999"	"35-39 years"	"35-39"	"Female"	"F"	204	11474154	1.8
+	"1999"	"1999"	"35-39 years"	"35-39"	"Male"	"M"	217	11408395	1.9
+	"1999"	"1999"	"40-44 years"	"40-44"	"Female"	"F"	432	11195450	3.9
+	"1999"	"1999"	"40-44 years"	"40-44"	"Male"	"M"	442	10998678	4.0
+	"1999"	"1999"	"45-49 years"	"45-49"	"Female"	"F"	729	9987734	7.3
+	"1999"	"1999"	"45-49 years"	"45-49"	"Male"	"M"	856	9666473	8.9
+	"1999"	"1999"	"50-54 years"	"50-54"	"Female"	"F"	1038	8644571	12.0
+	"1999"	"1999"	"50-54 years"	"50-54"	"Male"	"M"	1358	8279041	16.4
+	"1999"	"1999"	"55-59 years"	"55-59"	"Female"	"F"	1349	6765034	19.9
+	"1999"	"1999"	"55-59 years"	"55-59"	"Male"	"M"	1917	6319787	30.3
+	"1999"	"1999"	"60-64 years "	"60-64"	"Female"	"F"	1945	5613729	34.6
+	"1999"	"1999"	"60-64 years "	"60-64"	"Male"	"M"	2675	5079476	52.7
+	"1999"	"1999"	"65-69 years"	"65-69"	"Female"	"F"	2637	5141988	51.3
+	"1999"	"1999"	"65-69 years"	"65-69"	"Male"	"M"	3414	4399510	77.6
+	"1999"	"1999"	"70-74 years"	"70-74"	"Female"	"F"	3662	4983436	73.5
+	"1999"	"1999"	"70-74 years"	"70-74"	"Male"	"M"	4434	3893975	113.9
+	"1999"	"1999"	"75-79 years"	"75-79"	"Female"	"F"	4578	4331221	105.7
+	"1999"	"1999"	"75-79 years"	"75-79"	"Male"	"M"	4841	3011385	160.8
+	"1999"	"1999"	"80-84 years"	"80-84"	"Female"	"F"	4528	3079977	147.0
+	"1999"	"1999"	"80-84 years"	"80-84"	"Male"	"M"	3882	1802331	215.4
+	"1999"	"1999"	"85-89 years"	"85-89"	"Female"	"F"	4117	Not Applicable	Not Applicable
+	"1999"	"1999"	"85-89 years"	"85-89"	"Male"	"M"	2517	Not Applicable	Not Applicable
+	"1999"	"1999"	"90-94 years"	"90-94"	"Female"	"F"	2408	Not Applicable	Not Applicable
+	"1999"	"1999"	"90-94 years"	"90-94"	"Male"	"M"	1077	Not Applicable	Not Applicable
+	"1999"	"1999"	"95-99 years"	"95-99"	"Female"	"F"	734	Not Applicable	Not Applicable
+	"1999"	"1999"	"95-99 years"	"95-99"	"Male"	"M"	236	Not Applicable	Not Applicable
+	"1999"	"1999"	"100+ years"	"100+"	"Female"	"F"	114	Not Applicable	Not Applicable
+	"1999"	"1999"	"100+ years"	"100+"	"Male"	"M"	24	Not Applicable	Not Applicable
+	"1999"	"1999"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"1999"	"1999"	"Not Stated"	"NS"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2000"	"2000"	"< 1 year"	"1"	"Female"	"F"	0	1856631	Unreliable
+	"2000"	"2000"	"< 1 year"	"1"	"Male"	"M"	0	1949017	Unreliable
+	"2000"	"2000"	"1-4 years"	"1-4"	"Female"	"F"	0	7508434	Unreliable
+	"2000"	"2000"	"1-4 years"	"1-4"	"Male"	"M"	0	7861716	Unreliable
+	"2000"	"2000"	"5-9 years"	"5-9"	"Female"	"F"	0	10026228	Unreliable
+	"2000"	"2000"	"5-9 years"	"5-9"	"Male"	"M"	0	10523277	Unreliable
+	"2000"	"2000"	"10-14 years"	"10-14"	"Female"	"F"	Suppressed	10007875	Suppressed
+	"2000"	"2000"	"10-14 years"	"10-14"	"Male"	"M"	Suppressed	10520197	Suppressed
+	"2000"	"2000"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	9828886	Suppressed
+	"2000"	"2000"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	10391004	Suppressed
+	"2000"	"2000"	"20-24 years"	"20-24"	"Female"	"F"	10	9276187	Unreliable
+	"2000"	"2000"	"20-24 years"	"20-24"	"Male"	"M"	16	9687814	Unreliable
+	"2000"	"2000"	"25-29 years"	"25-29"	"Female"	"F"	37	9582576	0.4
+	"2000"	"2000"	"25-29 years"	"25-29"	"Male"	"M"	42	9798760	0.4
+	"2000"	"2000"	"30-34 years"	"30-34"	"Female"	"F"	81	10188619	0.8
+	"2000"	"2000"	"30-34 years"	"30-34"	"Male"	"M"	108	10321769	1.0
+	"2000"	"2000"	"35-39 years"	"35-39"	"Female"	"F"	202	11387968	1.8
+	"2000"	"2000"	"35-39 years"	"35-39"	"Male"	"M"	262	11318696	2.3
+	"2000"	"2000"	"40-44 years"	"40-44"	"Female"	"F"	385	11312761	3.4
+	"2000"	"2000"	"40-44 years"	"40-44"	"Male"	"M"	477	11129102	4.3
+	"2000"	"2000"	"45-49 years"	"45-49"	"Female"	"F"	734	10202898	7.2
+	"2000"	"2000"	"45-49 years"	"45-49"	"Male"	"M"	880	9889506	8.9
+	"2000"	"2000"	"50-54 years"	"50-54"	"Female"	"F"	1089	8977824	12.1
+	"2000"	"2000"	"50-54 years"	"50-54"	"Male"	"M"	1443	8607724	16.8
+	"2000"	"2000"	"55-59 years"	"55-59"	"Female"	"F"	1387	6960508	19.9
+	"2000"	"2000"	"55-59 years"	"55-59"	"Male"	"M"	1966	6508729	30.2
+	"2000"	"2000"	"60-64 years "	"60-64"	"Female"	"F"	1893	5668820	33.4
+	"2000"	"2000"	"60-64 years "	"60-64"	"Male"	"M"	2599	5136627	50.6
+	"2000"	"2000"	"65-69 years"	"65-69"	"Female"	"F"	2480	5133183	48.3
+	"2000"	"2000"	"65-69 years"	"65-69"	"Male"	"M"	3385	4400362	76.9
+	"2000"	"2000"	"70-74 years"	"70-74"	"Female"	"F"	3633	4954529	73.3
+	"2000"	"2000"	"70-74 years"	"70-74"	"Male"	"M"	4497	3902912	115.2
+	"2000"	"2000"	"75-79 years"	"75-79"	"Female"	"F"	4515	4371357	103.3
+	"2000"	"2000"	"75-79 years"	"75-79"	"Male"	"M"	4831	3044456	158.7
+	"2000"	"2000"	"80-84 years"	"80-84"	"Female"	"F"	4714	3110470	151.6
+	"2000"	"2000"	"80-84 years"	"80-84"	"Male"	"M"	3891	1834897	212.1
+	"2000"	"2000"	"85-89 years"	"85-89"	"Female"	"F"	4141	Not Applicable	Not Applicable
+	"2000"	"2000"	"85-89 years"	"85-89"	"Male"	"M"	2566	Not Applicable	Not Applicable
+	"2000"	"2000"	"90-94 years"	"90-94"	"Female"	"F"	2495	Not Applicable	Not Applicable
+	"2000"	"2000"	"90-94 years"	"90-94"	"Male"	"M"	1006	Not Applicable	Not Applicable
+	"2000"	"2000"	"95-99 years"	"95-99"	"Female"	"F"	797	Not Applicable	Not Applicable
+	"2000"	"2000"	"95-99 years"	"95-99"	"Male"	"M"	259	Not Applicable	Not Applicable
+	"2000"	"2000"	"100+ years"	"100+"	"Female"	"F"	118	Not Applicable	Not Applicable
+	"2000"	"2000"	"100+ years"	"100+"	"Male"	"M"	30	Not Applicable	Not Applicable
+	"2000"	"2000"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2000"	"2000"	"Not Stated"	"NS"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2001"	"2001"	"< 1 year"	"1"	"Female"	"F"	0	1962905	Unreliable
+	"2001"	"2001"	"< 1 year"	"1"	"Male"	"M"	0	2049753	Unreliable
+	"2001"	"2001"	"1-4 years"	"1-4"	"Female"	"F"	0	7468536	Unreliable
+	"2001"	"2001"	"1-4 years"	"1-4"	"Male"	"M"	0	7817023	Unreliable
+	"2001"	"2001"	"5-9 years"	"5-9"	"Female"	"F"	0	9844298	Unreliable
+	"2001"	"2001"	"5-9 years"	"5-9"	"Male"	"M"	0	10329064	Unreliable
+	"2001"	"2001"	"10-14 years"	"10-14"	"Female"	"F"	0	10231469	Unreliable
+	"2001"	"2001"	"10-14 years"	"10-14"	"Male"	"M"	0	10747209	Unreliable
+	"2001"	"2001"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	9908897	Suppressed
+	"2001"	"2001"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	10547387	Suppressed
+	"2001"	"2001"	"20-24 years"	"20-24"	"Female"	"F"	17	9676950	Unreliable
+	"2001"	"2001"	"20-24 years"	"20-24"	"Male"	"M"	18	10080336	Unreliable
+	"2001"	"2001"	"25-29 years"	"25-29"	"Female"	"F"	43	9303113	0.5
+	"2001"	"2001"	"25-29 years"	"25-29"	"Male"	"M"	38	9516234	0.4
+	"2001"	"2001"	"30-34 years"	"30-34"	"Female"	"F"	97	10263930	0.9
+	"2001"	"2001"	"30-34 years"	"30-34"	"Male"	"M"	117	10388245	1.1
+	"2001"	"2001"	"35-39 years"	"35-39"	"Female"	"F"	206	11141510	1.8
+	"2001"	"2001"	"35-39 years"	"35-39"	"Male"	"M"	281	11094408	2.5
+	"2001"	"2001"	"40-44 years"	"40-44"	"Female"	"F"	423	11500919	3.7
+	"2001"	"2001"	"40-44 years"	"40-44"	"Male"	"M"	479	11314915	4.2
+	"2001"	"2001"	"45-49 years"	"45-49"	"Female"	"F"	759	10505949	7.2
+	"2001"	"2001"	"45-49 years"	"45-49"	"Male"	"M"	953	10193034	9.3
+	"2001"	"2001"	"50-54 years"	"50-54"	"Female"	"F"	1226	9541132	12.8
+	"2001"	"2001"	"50-54 years"	"50-54"	"Male"	"M"	1525	9146153	16.7
+	"2001"	"2001"	"55-59 years"	"55-59"	"Female"	"F"	1466	7209396	20.3
+	"2001"	"2001"	"55-59 years"	"55-59"	"Male"	"M"	2095	6759579	31.0
+	"2001"	"2001"	"60-64 years "	"60-64"	"Female"	"F"	1812	5834170	31.1
+	"2001"	"2001"	"60-64 years "	"60-64"	"Male"	"M"	2520	5302150	47.5
+	"2001"	"2001"	"65-69 years"	"65-69"	"Female"	"F"	2488	5134618	48.5
+	"2001"	"2001"	"65-69 years"	"65-69"	"Male"	"M"	3458	4427615	78.1
+	"2001"	"2001"	"70-74 years"	"70-74"	"Female"	"F"	3467	4908508	70.6
+	"2001"	"2001"	"70-74 years"	"70-74"	"Male"	"M"	4269	3913438	109.1
+	"2001"	"2001"	"75-79 years"	"75-79"	"Female"	"F"	4379	4378159	100.0
+	"2001"	"2001"	"75-79 years"	"75-79"	"Male"	"M"	4545	3077254	147.7
+	"2001"	"2001"	"80-84 years"	"80-84"	"Female"	"F"	4616	3211574	143.7
+	"2001"	"2001"	"80-84 years"	"80-84"	"Male"	"M"	3872	1926631	201.0
+	"2001"	"2001"	"85-89 years"	"85-89"	"Female"	"F"	4068	Not Applicable	Not Applicable
+	"2001"	"2001"	"85-89 years"	"85-89"	"Male"	"M"	2512	Not Applicable	Not Applicable
+	"2001"	"2001"	"90-94 years"	"90-94"	"Female"	"F"	2398	Not Applicable	Not Applicable
+	"2001"	"2001"	"90-94 years"	"90-94"	"Male"	"M"	1066	Not Applicable	Not Applicable
+	"2001"	"2001"	"95-99 years"	"95-99"	"Female"	"F"	773	Not Applicable	Not Applicable
+	"2001"	"2001"	"95-99 years"	"95-99"	"Male"	"M"	250	Not Applicable	Not Applicable
+	"2001"	"2001"	"100+ years"	"100+"	"Female"	"F"	93	Not Applicable	Not Applicable
+	"2001"	"2001"	"100+ years"	"100+"	"Male"	"M"	36	Not Applicable	Not Applicable
+	"2001"	"2001"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2001"	"2001"	"Not Stated"	"NS"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2002"	"2002"	"< 1 year"	"1"	"Female"	"F"	0	1932939	Unreliable
+	"2002"	"2002"	"< 1 year"	"1"	"Male"	"M"	Suppressed	2018522	Suppressed
+	"2002"	"2002"	"1-4 years"	"1-4"	"Female"	"F"	0	7564711	Unreliable
+	"2002"	"2002"	"1-4 years"	"1-4"	"Male"	"M"	0	7913020	Unreliable
+	"2002"	"2002"	"5-9 years"	"5-9"	"Female"	"F"	0	9699735	Unreliable
+	"2002"	"2002"	"5-9 years"	"5-9"	"Male"	"M"	0	10172682	Unreliable
+	"2002"	"2002"	"10-14 years"	"10-14"	"Female"	"F"	0	10371422	Unreliable
+	"2002"	"2002"	"10-14 years"	"10-14"	"Male"	"M"	Suppressed	10889999	Suppressed
+	"2002"	"2002"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	9981879	Suppressed
+	"2002"	"2002"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	10628491	Suppressed
+	"2002"	"2002"	"20-24 years"	"20-24"	"Female"	"F"	13	9916245	Unreliable
+	"2002"	"2002"	"20-24 years"	"20-24"	"Male"	"M"	28	10327520	0.3
+	"2002"	"2002"	"25-29 years"	"25-29"	"Female"	"F"	39	9248586	0.4
+	"2002"	"2002"	"25-29 years"	"25-29"	"Male"	"M"	48	9442754	0.5
+	"2002"	"2002"	"30-34 years"	"30-34"	"Female"	"F"	87	10270193	0.8
+	"2002"	"2002"	"30-34 years"	"30-34"	"Male"	"M"	111	10388113	1.1
+	"2002"	"2002"	"35-39 years"	"35-39"	"Female"	"F"	199	10903446	1.8
+	"2002"	"2002"	"35-39 years"	"35-39"	"Male"	"M"	225	10847772	2.1
+	"2002"	"2002"	"40-44 years"	"40-44"	"Female"	"F"	407	11536009	3.5
+	"2002"	"2002"	"40-44 years"	"40-44"	"Male"	"M"	546	11353422	4.8
+	"2002"	"2002"	"45-49 years"	"45-49"	"Female"	"F"	774	10785791	7.2
+	"2002"	"2002"	"45-49 years"	"45-49"	"Male"	"M"	936	10466497	8.9
+	"2002"	"2002"	"50-54 years"	"50-54"	"Female"	"F"	1179	9571812	12.3
+	"2002"	"2002"	"50-54 years"	"50-54"	"Male"	"M"	1577	9168094	17.2
+	"2002"	"2002"	"55-59 years"	"55-59"	"Female"	"F"	1475	7801990	18.9
+	"2002"	"2002"	"55-59 years"	"55-59"	"Male"	"M"	2168	7341077	29.5
+	"2002"	"2002"	"60-64 years "	"60-64"	"Female"	"F"	1843	6051668	30.5
+	"2002"	"2002"	"60-64 years "	"60-64"	"Male"	"M"	2820	5508597	51.2
+	"2002"	"2002"	"65-69 years"	"65-69"	"Female"	"F"	2416	5163814	46.8
+	"2002"	"2002"	"65-69 years"	"65-69"	"Male"	"M"	3434	4474667	76.7
+	"2002"	"2002"	"70-74 years"	"70-74"	"Female"	"F"	3333	4852844	68.7
+	"2002"	"2002"	"70-74 years"	"70-74"	"Male"	"M"	4108	3897210	105.4
+	"2002"	"2002"	"75-79 years"	"75-79"	"Female"	"F"	4250	4368692	97.3
+	"2002"	"2002"	"75-79 years"	"75-79"	"Male"	"M"	4519	3101769	145.7
+	"2002"	"2002"	"80-84 years"	"80-84"	"Female"	"F"	4667	3295412	141.6
+	"2002"	"2002"	"80-84 years"	"80-84"	"Male"	"M"	3953	1998991	197.7
+	"2002"	"2002"	"85-89 years"	"85-89"	"Female"	"F"	3923	Not Applicable	Not Applicable
+	"2002"	"2002"	"85-89 years"	"85-89"	"Male"	"M"	2497	Not Applicable	Not Applicable
+	"2002"	"2002"	"90-94 years"	"90-94"	"Female"	"F"	2397	Not Applicable	Not Applicable
+	"2002"	"2002"	"90-94 years"	"90-94"	"Male"	"M"	1018	Not Applicable	Not Applicable
+	"2002"	"2002"	"95-99 years"	"95-99"	"Female"	"F"	805	Not Applicable	Not Applicable
+	"2002"	"2002"	"95-99 years"	"95-99"	"Male"	"M"	267	Not Applicable	Not Applicable
+	"2002"	"2002"	"100+ years"	"100+"	"Female"	"F"	104	Not Applicable	Not Applicable
+	"2002"	"2002"	"100+ years"	"100+"	"Male"	"M"	24	Not Applicable	Not Applicable
+	"2002"	"2002"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2002"	"2002"	"Not Stated"	"NS"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2003"	"2003"	"< 1 year"	"1"	"Female"	"F"	0	1942634	Unreliable
+	"2003"	"2003"	"< 1 year"	"1"	"Male"	"M"	0	2033237	Unreliable
+	"2003"	"2003"	"1-4 years"	"1-4"	"Female"	"F"	0	7636693	Unreliable
+	"2003"	"2003"	"1-4 years"	"1-4"	"Male"	"M"	0	7979882	Unreliable
+	"2003"	"2003"	"5-9 years"	"5-9"	"Female"	"F"	Suppressed	9581247	Suppressed
+	"2003"	"2003"	"5-9 years"	"5-9"	"Male"	"M"	0	10039604	Unreliable
+	"2003"	"2003"	"10-14 years"	"10-14"	"Female"	"F"	0	10444875	Unreliable
+	"2003"	"2003"	"10-14 years"	"10-14"	"Male"	"M"	Suppressed	10970478	Suppressed
+	"2003"	"2003"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10086567	Suppressed
+	"2003"	"2003"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	10710599	Suppressed
+	"2003"	"2003"	"20-24 years"	"20-24"	"Female"	"F"	13	10093723	Unreliable
+	"2003"	"2003"	"20-24 years"	"20-24"	"Male"	"M"	19	10497965	Unreliable
+	"2003"	"2003"	"25-29 years"	"25-29"	"Female"	"F"	36	9307104	0.4
+	"2003"	"2003"	"25-29 years"	"25-29"	"Male"	"M"	59	9464481	0.6
+	"2003"	"2003"	"30-34 years"	"30-34"	"Female"	"F"	90	10193818	0.9
+	"2003"	"2003"	"30-34 years"	"30-34"	"Male"	"M"	96	10278392	0.9
+	"2003"	"2003"	"35-39 years"	"35-39"	"Female"	"F"	208	10660101	2.0
+	"2003"	"2003"	"35-39 years"	"35-39"	"Male"	"M"	226	10604058	2.1
+	"2003"	"2003"	"40-44 years"	"40-44"	"Female"	"F"	379	11546602	3.3
+	"2003"	"2003"	"40-44 years"	"40-44"	"Male"	"M"	465	11343445	4.1
+	"2003"	"2003"	"45-49 years"	"45-49"	"Female"	"F"	734	11017265	6.7
+	"2003"	"2003"	"45-49 years"	"45-49"	"Male"	"M"	946	10705411	8.8
+	"2003"	"2003"	"50-54 years"	"50-54"	"Female"	"F"	1138	9759654	11.7
+	"2003"	"2003"	"50-54 years"	"50-54"	"Male"	"M"	1529	9337624	16.4
+	"2003"	"2003"	"55-59 years"	"55-59"	"Female"	"F"	1474	8141956	18.1
+	"2003"	"2003"	"55-59 years"	"55-59"	"Male"	"M"	2091	7672601	27.3
+	"2003"	"2003"	"60-64 years "	"60-64"	"Female"	"F"	1923	6377463	30.2
+	"2003"	"2003"	"60-64 years "	"60-64"	"Male"	"M"	2695	5816925	46.3
+	"2003"	"2003"	"65-69 years"	"65-69"	"Female"	"F"	2357	5253706	44.9
+	"2003"	"2003"	"65-69 years"	"65-69"	"Male"	"M"	3368	4577090	73.6
+	"2003"	"2003"	"70-74 years"	"70-74"	"Female"	"F"	3167	4794496	66.1
+	"2003"	"2003"	"70-74 years"	"70-74"	"Male"	"M"	3935	3875623	101.5
+	"2003"	"2003"	"75-79 years"	"75-79"	"Female"	"F"	4237	4365982	97.0
+	"2003"	"2003"	"75-79 years"	"75-79"	"Male"	"M"	4415	3131860	141.0
+	"2003"	"2003"	"80-84 years"	"80-84"	"Female"	"F"	4529	3347175	135.3
+	"2003"	"2003"	"80-84 years"	"80-84"	"Male"	"M"	4030	2051421	196.4
+	"2003"	"2003"	"85-89 years"	"85-89"	"Female"	"F"	3995	Not Applicable	Not Applicable
+	"2003"	"2003"	"85-89 years"	"85-89"	"Male"	"M"	2553	Not Applicable	Not Applicable
+	"2003"	"2003"	"90-94 years"	"90-94"	"Female"	"F"	2419	Not Applicable	Not Applicable
+	"2003"	"2003"	"90-94 years"	"90-94"	"Male"	"M"	1112	Not Applicable	Not Applicable
+	"2003"	"2003"	"95-99 years"	"95-99"	"Female"	"F"	773	Not Applicable	Not Applicable
+	"2003"	"2003"	"95-99 years"	"95-99"	"Male"	"M"	245	Not Applicable	Not Applicable
+	"2003"	"2003"	"100+ years"	"100+"	"Female"	"F"	107	Not Applicable	Not Applicable
+	"2003"	"2003"	"100+ years"	"100+"	"Male"	"M"	27	Not Applicable	Not Applicable
+	"2003"	"2003"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2003"	"2003"	"Not Stated"	"NS"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2004"	"2004"	"< 1 year"	"1"	"Female"	"F"	0	1962216	Unreliable
+	"2004"	"2004"	"< 1 year"	"1"	"Male"	"M"	0	2052042	Unreliable
+	"2004"	"2004"	"1-4 years"	"1-4"	"Female"	"F"	0	7713175	Unreliable
+	"2004"	"2004"	"1-4 years"	"1-4"	"Male"	"M"	0	8058452	Unreliable
+	"2004"	"2004"	"5-9 years"	"5-9"	"Female"	"F"	0	9503231	Unreliable
+	"2004"	"2004"	"5-9 years"	"5-9"	"Male"	"M"	0	9951006	Unreliable
+	"2004"	"2004"	"10-14 years"	"10-14"	"Female"	"F"	0	10443706	Unreliable
+	"2004"	"2004"	"10-14 years"	"10-14"	"Male"	"M"	Suppressed	10967974	Suppressed
+	"2004"	"2004"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10242793	Suppressed
+	"2004"	"2004"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	10859759	Suppressed
+	"2004"	"2004"	"20-24 years"	"20-24"	"Female"	"F"	15	10190641	Unreliable
+	"2004"	"2004"	"20-24 years"	"20-24"	"Male"	"M"	25	10654919	0.2
+	"2004"	"2004"	"25-29 years"	"25-29"	"Female"	"F"	37	9479080	0.4
+	"2004"	"2004"	"25-29 years"	"25-29"	"Male"	"M"	49	9627975	0.5
+	"2004"	"2004"	"30-34 years"	"30-34"	"Female"	"F"	89	10041145	0.9
+	"2004"	"2004"	"30-34 years"	"30-34"	"Male"	"M"	100	10118356	1.0
+	"2004"	"2004"	"35-39 years"	"35-39"	"Female"	"F"	202	10453320	1.9
+	"2004"	"2004"	"35-39 years"	"35-39"	"Male"	"M"	207	10421329	2.0
+	"2004"	"2004"	"40-44 years"	"40-44"	"Female"	"F"	409	11562414	3.5
+	"2004"	"2004"	"40-44 years"	"40-44"	"Male"	"M"	459	11363212	4.0
+	"2004"	"2004"	"45-49 years"	"45-49"	"Female"	"F"	690	11184506	6.2
+	"2004"	"2004"	"45-49 years"	"45-49"	"Male"	"M"	892	10880756	8.2
+	"2004"	"2004"	"50-54 years"	"50-54"	"Female"	"F"	1068	9999623	10.7
+	"2004"	"2004"	"50-54 years"	"50-54"	"Male"	"M"	1506	9565045	15.7
+	"2004"	"2004"	"55-59 years"	"55-59"	"Female"	"F"	1501	8547949	17.6
+	"2004"	"2004"	"55-59 years"	"55-59"	"Male"	"M"	2126	8059227	26.4
+	"2004"	"2004"	"60-64 years "	"60-64"	"Female"	"F"	1861	6637798	28.0
+	"2004"	"2004"	"60-64 years "	"60-64"	"Male"	"M"	2597	6060330	42.9
+	"2004"	"2004"	"65-69 years"	"65-69"	"Female"	"F"	2192	5370418	40.8
+	"2004"	"2004"	"65-69 years"	"65-69"	"Male"	"M"	3048	4703011	64.8
+	"2004"	"2004"	"70-74 years"	"70-74"	"Female"	"F"	2903	4739945	61.2
+	"2004"	"2004"	"70-74 years"	"70-74"	"Male"	"M"	3696	3854159	95.9
+	"2004"	"2004"	"75-79 years"	"75-79"	"Female"	"F"	3896	4321319	90.2
+	"2004"	"2004"	"75-79 years"	"75-79"	"Male"	"M"	4283	3140080	136.4
+	"2004"	"2004"	"80-84 years"	"80-84"	"Female"	"F"	4540	3417423	132.8
+	"2004"	"2004"	"80-84 years"	"80-84"	"Male"	"M"	3871	2111081	183.4
+	"2004"	"2004"	"85-89 years"	"85-89"	"Female"	"F"	3850	Not Applicable	Not Applicable
+	"2004"	"2004"	"85-89 years"	"85-89"	"Male"	"M"	2455	Not Applicable	Not Applicable
+	"2004"	"2004"	"90-94 years"	"90-94"	"Female"	"F"	2372	Not Applicable	Not Applicable
+	"2004"	"2004"	"90-94 years"	"90-94"	"Male"	"M"	1085	Not Applicable	Not Applicable
+	"2004"	"2004"	"95-99 years"	"95-99"	"Female"	"F"	754	Not Applicable	Not Applicable
+	"2004"	"2004"	"95-99 years"	"95-99"	"Male"	"M"	262	Not Applicable	Not Applicable
+	"2004"	"2004"	"100+ years"	"100+"	"Female"	"F"	109	Not Applicable	Not Applicable
+	"2004"	"2004"	"100+ years"	"100+"	"Male"	"M"	19	Not Applicable	Not Applicable
+	"2004"	"2004"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2004"	"2004"	"Not Stated"	"NS"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2005"	"2005"	"< 1 year"	"1"	"Female"	"F"	0	1956682	Unreliable
+	"2005"	"2005"	"< 1 year"	"1"	"Male"	"M"	Suppressed	2047711	Suppressed
+	"2005"	"2005"	"1-4 years"	"1-4"	"Female"	"F"	0	7785123	Unreliable
+	"2005"	"2005"	"1-4 years"	"1-4"	"Male"	"M"	0	8127884	Unreliable
+	"2005"	"2005"	"5-9 years"	"5-9"	"Female"	"F"	0	9473900	Unreliable
+	"2005"	"2005"	"5-9 years"	"5-9"	"Male"	"M"	Suppressed	9915167	Suppressed
+	"2005"	"2005"	"10-14 years"	"10-14"	"Female"	"F"	0	10348382	Unreliable
+	"2005"	"2005"	"10-14 years"	"10-14"	"Male"	"M"	Suppressed	10864197	Suppressed
+	"2005"	"2005"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10434789	Suppressed
+	"2005"	"2005"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	11051425	Suppressed
+	"2005"	"2005"	"20-24 years"	"20-24"	"Female"	"F"	14	10222806	Unreliable
+	"2005"	"2005"	"20-24 years"	"20-24"	"Male"	"M"	20	10737149	0.2
+	"2005"	"2005"	"25-29 years"	"25-29"	"Female"	"F"	35	9712544	0.4
+	"2005"	"2005"	"25-29 years"	"25-29"	"Male"	"M"	52	9822166	0.5
+	"2005"	"2005"	"30-34 years"	"30-34"	"Female"	"F"	103	9835154	1.0
+	"2005"	"2005"	"30-34 years"	"30-34"	"Male"	"M"	113	9888783	1.1
+	"2005"	"2005"	"35-39 years"	"35-39"	"Female"	"F"	172	10411620	1.7
+	"2005"	"2005"	"35-39 years"	"35-39"	"Male"	"M"	211	10387033	2.0
+	"2005"	"2005"	"40-44 years"	"40-44"	"Female"	"F"	416	11453723	3.6
+	"2005"	"2005"	"40-44 years"	"40-44"	"Male"	"M"	462	11253162	4.1
+	"2005"	"2005"	"45-49 years"	"45-49"	"Female"	"F"	730	11357088	6.4
+	"2005"	"2005"	"45-49 years"	"45-49"	"Male"	"M"	892	11060083	8.1
+	"2005"	"2005"	"50-54 years"	"50-54"	"Female"	"F"	1141	10257441	11.1
+	"2005"	"2005"	"50-54 years"	"50-54"	"Male"	"M"	1469	9821292	15.0
+	"2005"	"2005"	"55-59 years"	"55-59"	"Female"	"F"	1480	9007859	16.4
+	"2005"	"2005"	"55-59 years"	"55-59"	"Male"	"M"	2151	8495361	25.3
+	"2005"	"2005"	"60-64 years "	"60-64"	"Female"	"F"	1782	6860551	26.0
+	"2005"	"2005"	"60-64 years "	"60-64"	"Male"	"M"	2609	6277726	41.6
+	"2005"	"2005"	"65-69 years"	"65-69"	"Female"	"F"	2107	5469500	38.5
+	"2005"	"2005"	"65-69 years"	"65-69"	"Male"	"M"	3172	4809127	66.0
+	"2005"	"2005"	"70-74 years"	"70-74"	"Female"	"F"	2824	4729069	59.7
+	"2005"	"2005"	"70-74 years"	"70-74"	"Male"	"M"	3570	3874001	92.2
+	"2005"	"2005"	"75-79 years"	"75-79"	"Female"	"F"	3684	4299256	85.7
+	"2005"	"2005"	"75-79 years"	"75-79"	"Male"	"M"	4091	3164353	129.3
+	"2005"	"2005"	"80-84 years"	"80-84"	"Female"	"F"	4483	3454579	129.8
+	"2005"	"2005"	"80-84 years"	"80-84"	"Male"	"M"	3874	2156614	179.6
+	"2005"	"2005"	"85-89 years"	"85-89"	"Female"	"F"	3833	Not Applicable	Not Applicable
+	"2005"	"2005"	"85-89 years"	"85-89"	"Male"	"M"	2510	Not Applicable	Not Applicable
+	"2005"	"2005"	"90-94 years"	"90-94"	"Female"	"F"	2351	Not Applicable	Not Applicable
+	"2005"	"2005"	"90-94 years"	"90-94"	"Male"	"M"	1111	Not Applicable	Not Applicable
+	"2005"	"2005"	"95-99 years"	"95-99"	"Female"	"F"	772	Not Applicable	Not Applicable
+	"2005"	"2005"	"95-99 years"	"95-99"	"Male"	"M"	284	Not Applicable	Not Applicable
+	"2005"	"2005"	"100+ years"	"100+"	"Female"	"F"	107	Not Applicable	Not Applicable
+	"2005"	"2005"	"100+ years"	"100+"	"Male"	"M"	24	Not Applicable	Not Applicable
+	"2005"	"2005"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2005"	"2005"	"Not Stated"	"NS"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2006"	"2006"	"< 1 year"	"1"	"Female"	"F"	0	1975919	Unreliable
+	"2006"	"2006"	"< 1 year"	"1"	"Male"	"M"	0	2065819	Unreliable
+	"2006"	"2006"	"1-4 years"	"1-4"	"Female"	"F"	0	7775092	Unreliable
+	"2006"	"2006"	"1-4 years"	"1-4"	"Male"	"M"	0	8122053	Unreliable
+	"2006"	"2006"	"5-9 years"	"5-9"	"Female"	"F"	0	9555173	Unreliable
+	"2006"	"2006"	"5-9 years"	"5-9"	"Male"	"M"	0	9989515	Unreliable
+	"2006"	"2006"	"10-14 years"	"10-14"	"Female"	"F"	0	10261944	Unreliable
+	"2006"	"2006"	"10-14 years"	"10-14"	"Male"	"M"	Suppressed	10771194	Suppressed
+	"2006"	"2006"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10597293	Suppressed
+	"2006"	"2006"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	11210416	Suppressed
+	"2006"	"2006"	"20-24 years"	"20-24"	"Female"	"F"	20	10238784	0.2
+	"2006"	"2006"	"20-24 years"	"20-24"	"Male"	"M"	14	10797351	Unreliable
+	"2006"	"2006"	"25-29 years"	"25-29"	"Female"	"F"	51	10014422	0.5
+	"2006"	"2006"	"25-29 years"	"25-29"	"Male"	"M"	54	10095589	0.5
+	"2006"	"2006"	"30-34 years"	"30-34"	"Female"	"F"	102	9611918	1.1
+	"2006"	"2006"	"30-34 years"	"30-34"	"Male"	"M"	109	9673250	1.1
+	"2006"	"2006"	"35-39 years"	"35-39"	"Female"	"F"	195	10489448	1.9
+	"2006"	"2006"	"35-39 years"	"35-39"	"Male"	"M"	217	10451785	2.1
+	"2006"	"2006"	"40-44 years"	"40-44"	"Female"	"F"	415	11238163	3.7
+	"2006"	"2006"	"40-44 years"	"40-44"	"Male"	"M"	456	11064405	4.1
+	"2006"	"2006"	"45-49 years"	"45-49"	"Female"	"F"	750	11505455	6.5
+	"2006"	"2006"	"45-49 years"	"45-49"	"Male"	"M"	938	11209831	8.4
+	"2006"	"2006"	"50-54 years"	"50-54"	"Female"	"F"	1212	10506120	11.5
+	"2006"	"2006"	"50-54 years"	"50-54"	"Male"	"M"	1494	10064753	14.8
+	"2006"	"2006"	"55-59 years"	"55-59"	"Female"	"F"	1663	9473065	17.6
+	"2006"	"2006"	"55-59 years"	"55-59"	"Male"	"M"	2235	8923795	25.0
+	"2006"	"2006"	"60-64 years "	"60-64"	"Female"	"F"	1853	7058989	26.3
+	"2006"	"2006"	"60-64 years "	"60-64"	"Male"	"M"	2727	6474264	42.1
+	"2006"	"2006"	"65-69 years"	"65-69"	"Female"	"F"	2224	5609202	39.6
+	"2006"	"2006"	"65-69 years"	"65-69"	"Male"	"M"	3122	4943999	63.1
+	"2006"	"2006"	"70-74 years"	"70-74"	"Female"	"F"	2758	4741436	58.2
+	"2006"	"2006"	"70-74 years"	"70-74"	"Male"	"M"	3489	3908390	89.3
+	"2006"	"2006"	"75-79 years"	"75-79"	"Female"	"F"	3697	4269136	86.6
+	"2006"	"2006"	"75-79 years"	"75-79"	"Male"	"M"	3944	3177898	124.1
+	"2006"	"2006"	"80-84 years"	"80-84"	"Female"	"F"	4319	3463549	124.7
+	"2006"	"2006"	"80-84 years"	"80-84"	"Male"	"M"	3940	2184568	180.4
+	"2006"	"2006"	"85-89 years"	"85-89"	"Female"	"F"	3815	Not Applicable	Not Applicable
+	"2006"	"2006"	"85-89 years"	"85-89"	"Male"	"M"	2509	Not Applicable	Not Applicable
+	"2006"	"2006"	"90-94 years"	"90-94"	"Female"	"F"	2337	Not Applicable	Not Applicable
+	"2006"	"2006"	"90-94 years"	"90-94"	"Male"	"M"	1135	Not Applicable	Not Applicable
+	"2006"	"2006"	"95-99 years"	"95-99"	"Female"	"F"	731	Not Applicable	Not Applicable
+	"2006"	"2006"	"95-99 years"	"95-99"	"Male"	"M"	265	Not Applicable	Not Applicable
+	"2006"	"2006"	"100+ years"	"100+"	"Female"	"F"	96	Not Applicable	Not Applicable
+	"2006"	"2006"	"100+ years"	"100+"	"Male"	"M"	28	Not Applicable	Not Applicable
+	"2006"	"2006"	"Not Stated"	"NS"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2006"	"2006"	"Not Stated"	"NS"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2007"	"2007"	"< 1 year"	"1"	"Female"	"F"	0	2027181	Unreliable
+	"2007"	"2007"	"< 1 year"	"1"	"Male"	"M"	0	2120816	Unreliable
+	"2007"	"2007"	"1-4 years"	"1-4"	"Female"	"F"	0	7813088	Unreliable
+	"2007"	"2007"	"1-4 years"	"1-4"	"Male"	"M"	0	8164877	Unreliable
+	"2007"	"2007"	"5-9 years"	"5-9"	"Female"	"F"	0	9640683	Unreliable
+	"2007"	"2007"	"5-9 years"	"5-9"	"Male"	"M"	0	10073928	Unreliable
+	"2007"	"2007"	"10-14 years"	"10-14"	"Female"	"F"	0	10170082	Unreliable
+	"2007"	"2007"	"10-14 years"	"10-14"	"Male"	"M"	Suppressed	10670960	Suppressed
+	"2007"	"2007"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10731326	Suppressed
+	"2007"	"2007"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	11336490	Suppressed
+	"2007"	"2007"	"20-24 years"	"20-24"	"Female"	"F"	Suppressed	10270163	Suppressed
+	"2007"	"2007"	"20-24 years"	"20-24"	"Male"	"M"	16	10807836	Unreliable
+	"2007"	"2007"	"25-29 years"	"25-29"	"Female"	"F"	38	10229259	0.4
+	"2007"	"2007"	"25-29 years"	"25-29"	"Male"	"M"	58	10313439	0.6
+	"2007"	"2007"	"30-34 years"	"30-34"	"Female"	"F"	82	9559334	0.9
+	"2007"	"2007"	"30-34 years"	"30-34"	"Male"	"M"	97	9611431	1.0
+	"2007"	"2007"	"35-39 years"	"35-39"	"Female"	"F"	178	10502839	1.7
+	"2007"	"2007"	"35-39 years"	"35-39"	"Male"	"M"	220	10461052	2.1
+	"2007"	"2007"	"40-44 years"	"40-44"	"Female"	"F"	400	10999163	3.6
+	"2007"	"2007"	"40-44 years"	"40-44"	"Male"	"M"	471	10833176	4.3
+	"2007"	"2007"	"45-49 years"	"45-49"	"Female"	"F"	809	11542213	7.0
+	"2007"	"2007"	"45-49 years"	"45-49"	"Male"	"M"	956	11257548	8.5
+	"2007"	"2007"	"50-54 years"	"50-54"	"Female"	"F"	1248	10795749	11.6
+	"2007"	"2007"	"50-54 years"	"50-54"	"Male"	"M"	1644	10344429	15.9
+	"2007"	"2007"	"55-59 years"	"55-59"	"Female"	"F"	1675	9509473	17.6
+	"2007"	"2007"	"55-59 years"	"55-59"	"Male"	"M"	2340	8945299	26.2
+	"2007"	"2007"	"60-64 years "	"60-64"	"Female"	"F"	1952	7639198	25.6
+	"2007"	"2007"	"60-64 years "	"60-64"	"Male"	"M"	2941	7034464	41.8
+	"2007"	"2007"	"65-69 years"	"65-69"	"Female"	"F"	2266	5824805	38.9
+	"2007"	"2007"	"65-69 years"	"65-69"	"Male"	"M"	3092	5145430	60.1
+	"2007"	"2007"	"70-74 years"	"70-74"	"Female"	"F"	2679	4770997	56.2
+	"2007"	"2007"	"70-74 years"	"70-74"	"Male"	"M"	3468	3957495	87.6
+	"2007"	"2007"	"75-79 years"	"75-79"	"Female"	"F"	3510	4225224	83.1
+	"2007"	"2007"	"75-79 years"	"75-79"	"Male"	"M"	3805	3175139	119.8
+	"2007"	"2007"	"80-84 years"	"80-84"	"Female"	"F"	4189	3469267	120.7
+	"2007"	"2007"	"80-84 years"	"80-84"	"Male"	"M"	3796	2217809	171.2
+	"2007"	"2007"	"85-89 years"	"85-89"	"Female"	"F"	3937	Not Applicable	Not Applicable
+	"2007"	"2007"	"85-89 years"	"85-89"	"Male"	"M"	2578	Not Applicable	Not Applicable
+	"2007"	"2007"	"90-94 years"	"90-94"	"Female"	"F"	2215	Not Applicable	Not Applicable
+	"2007"	"2007"	"90-94 years"	"90-94"	"Male"	"M"	1113	Not Applicable	Not Applicable
+	"2007"	"2007"	"95-99 years"	"95-99"	"Female"	"F"	772	Not Applicable	Not Applicable
+	"2007"	"2007"	"95-99 years"	"95-99"	"Male"	"M"	237	Not Applicable	Not Applicable
+	"2007"	"2007"	"100+ years"	"100+"	"Female"	"F"	112	Not Applicable	Not Applicable
+	"2007"	"2007"	"100+ years"	"100+"	"Male"	"M"	27	Not Applicable	Not Applicable
+	"2007"	"2007"	"Not Stated"	"NS"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2007"	"2007"	"Not Stated"	"NS"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2008"	"2008"	"< 1 year"	"1"	"Female"	"F"	Suppressed	2022889	Suppressed
+	"2008"	"2008"	"< 1 year"	"1"	"Male"	"M"	0	2109846	Unreliable
+	"2008"	"2008"	"1-4 years"	"1-4"	"Female"	"F"	0	7891294	Unreliable
+	"2008"	"2008"	"1-4 years"	"1-4"	"Male"	"M"	0	8247098	Unreliable
+	"2008"	"2008"	"5-9 years"	"5-9"	"Female"	"F"	0	9748488	Unreliable
+	"2008"	"2008"	"5-9 years"	"5-9"	"Male"	"M"	0	10181114	Unreliable
+	"2008"	"2008"	"10-14 years"	"10-14"	"Female"	"F"	0	10108474	Unreliable
+	"2008"	"2008"	"10-14 years"	"10-14"	"Male"	"M"	Suppressed	10598181	Suppressed
+	"2008"	"2008"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10805148	Suppressed
+	"2008"	"2008"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	11405732	Suppressed
+	"2008"	"2008"	"20-24 years"	"20-24"	"Female"	"F"	21	10339566	0.2
+	"2008"	"2008"	"20-24 years"	"20-24"	"Male"	"M"	17	10841046	Unreliable
+	"2008"	"2008"	"25-29 years"	"25-29"	"Female"	"F"	57	10393532	0.5
+	"2008"	"2008"	"25-29 years"	"25-29"	"Male"	"M"	51	10509136	0.5
+	"2008"	"2008"	"30-34 years"	"30-34"	"Female"	"F"	100	9625879	1.0
+	"2008"	"2008"	"30-34 years"	"30-34"	"Male"	"M"	102	9678926	1.1
+	"2008"	"2008"	"35-39 years"	"35-39"	"Female"	"F"	203	10437809	1.9
+	"2008"	"2008"	"35-39 years"	"35-39"	"Male"	"M"	263	10379654	2.5
+	"2008"	"2008"	"40-44 years"	"40-44"	"Female"	"F"	414	10757924	3.8
+	"2008"	"2008"	"40-44 years"	"40-44"	"Male"	"M"	503	10617099	4.7
+	"2008"	"2008"	"45-49 years"	"45-49"	"Female"	"F"	816	11556983	7.1
+	"2008"	"2008"	"45-49 years"	"45-49"	"Male"	"M"	973	11263990	8.6
+	"2008"	"2008"	"50-54 years"	"50-54"	"Female"	"F"	1179	11040553	10.7
+	"2008"	"2008"	"50-54 years"	"50-54"	"Male"	"M"	1686	10598921	15.9
+	"2008"	"2008"	"55-59 years"	"55-59"	"Female"	"F"	1652	9702238	17.0
+	"2008"	"2008"	"55-59 years"	"55-59"	"Male"	"M"	2336	9112330	25.6
+	"2008"	"2008"	"60-64 years "	"60-64"	"Female"	"F"	1992	7979525	25.0
+	"2008"	"2008"	"60-64 years "	"60-64"	"Male"	"M"	2913	7362970	39.6
+	"2008"	"2008"	"65-69 years"	"65-69"	"Female"	"F"	2223	6147908	36.2
+	"2008"	"2008"	"65-69 years"	"65-69"	"Male"	"M"	3267	5446439	60.0
+	"2008"	"2008"	"70-74 years"	"70-74"	"Female"	"F"	2685	4856336	55.3
+	"2008"	"2008"	"70-74 years"	"70-74"	"Male"	"M"	3453	4054996	85.2
+	"2008"	"2008"	"75-79 years"	"75-79"	"Female"	"F"	3338	4178497	79.9
+	"2008"	"2008"	"75-79 years"	"75-79"	"Male"	"M"	3688	3167246	116.4
+	"2008"	"2008"	"80-84 years"	"80-84"	"Female"	"F"	4130	3477946	118.7
+	"2008"	"2008"	"80-84 years"	"80-84"	"Male"	"M"	3645	2252413	161.8
+	"2008"	"2008"	"85-89 years"	"85-89"	"Female"	"F"	3803	Not Applicable	Not Applicable
+	"2008"	"2008"	"85-89 years"	"85-89"	"Male"	"M"	2544	Not Applicable	Not Applicable
+	"2008"	"2008"	"90-94 years"	"90-94"	"Female"	"F"	2265	Not Applicable	Not Applicable
+	"2008"	"2008"	"90-94 years"	"90-94"	"Male"	"M"	1076	Not Applicable	Not Applicable
+	"2008"	"2008"	"95-99 years"	"95-99"	"Female"	"F"	782	Not Applicable	Not Applicable
+	"2008"	"2008"	"95-99 years"	"95-99"	"Male"	"M"	265	Not Applicable	Not Applicable
+	"2008"	"2008"	"100+ years"	"100+"	"Female"	"F"	117	Not Applicable	Not Applicable
+	"2008"	"2008"	"100+ years"	"100+"	"Male"	"M"	26	Not Applicable	Not Applicable
+	"2008"	"2008"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2008"	"2008"	"Not Stated"	"NS"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2009"	"2009"	"< 1 year"	"1"	"Female"	"F"	0	1959169	Unreliable
+	"2009"	"2009"	"< 1 year"	"1"	"Male"	"M"	0	2044418	Unreliable
+	"2009"	"2009"	"1-4 years"	"1-4"	"Female"	"F"	0	7943260	Unreliable
+	"2009"	"2009"	"1-4 years"	"1-4"	"Male"	"M"	Suppressed	8297671	Suppressed
+	"2009"	"2009"	"5-9 years"	"5-9"	"Female"	"F"	0	9874744	Unreliable
+	"2009"	"2009"	"5-9 years"	"5-9"	"Male"	"M"	0	10307755	Unreliable
+	"2009"	"2009"	"10-14 years"	"10-14"	"Female"	"F"	0	10088732	Unreliable
+	"2009"	"2009"	"10-14 years"	"10-14"	"Male"	"M"	0	10571832	Unreliable
+	"2009"	"2009"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10804571	Suppressed
+	"2009"	"2009"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	11388239	Suppressed
+	"2009"	"2009"	"20-24 years"	"20-24"	"Female"	"F"	12	10459413	Unreliable
+	"2009"	"2009"	"20-24 years"	"20-24"	"Male"	"M"	27	10924709	0.2
+	"2009"	"2009"	"25-29 years"	"25-29"	"Female"	"F"	41	10466871	0.4
+	"2009"	"2009"	"25-29 years"	"25-29"	"Male"	"M"	58	10611357	0.5
+	"2009"	"2009"	"30-34 years"	"30-34"	"Female"	"F"	79	9800559	0.8
+	"2009"	"2009"	"30-34 years"	"30-34"	"Male"	"M"	110	9844555	1.1
+	"2009"	"2009"	"35-39 years"	"35-39"	"Female"	"F"	197	10292169	1.9
+	"2009"	"2009"	"35-39 years"	"35-39"	"Male"	"M"	258	10215627	2.5
+	"2009"	"2009"	"40-44 years"	"40-44"	"Female"	"F"	409	10549441	3.9
+	"2009"	"2009"	"40-44 years"	"40-44"	"Male"	"M"	452	10430574	4.3
+	"2009"	"2009"	"45-49 years"	"45-49"	"Female"	"F"	823	11576574	7.1
+	"2009"	"2009"	"45-49 years"	"45-49"	"Male"	"M"	997	11285671	8.8
+	"2009"	"2009"	"50-54 years"	"50-54"	"Female"	"F"	1249	11221280	11.1
+	"2009"	"2009"	"50-54 years"	"50-54"	"Male"	"M"	1641	10783563	15.2
+	"2009"	"2009"	"55-59 years"	"55-59"	"Female"	"F"	1645	9946217	16.5
+	"2009"	"2009"	"55-59 years"	"55-59"	"Male"	"M"	2385	9334386	25.6
+	"2009"	"2009"	"60-64 years "	"60-64"	"Female"	"F"	2041	8383324	24.3
+	"2009"	"2009"	"60-64 years "	"60-64"	"Male"	"M"	2998	7741673	38.7
+	"2009"	"2009"	"65-69 years"	"65-69"	"Female"	"F"	2162	6407878	33.7
+	"2009"	"2009"	"65-69 years"	"65-69"	"Male"	"M"	3220	5684499	56.6
+	"2009"	"2009"	"70-74 years"	"70-74"	"Female"	"F"	2606	4967279	52.5
+	"2009"	"2009"	"70-74 years"	"70-74"	"Male"	"M"	3406	4173443	81.6
+	"2009"	"2009"	"75-79 years"	"75-79"	"Female"	"F"	3113	4135780	75.3
+	"2009"	"2009"	"75-79 years"	"75-79"	"Male"	"M"	3505	3159284	110.9
+	"2009"	"2009"	"80-84 years"	"80-84"	"Female"	"F"	3799	3454860	110.0
+	"2009"	"2009"	"80-84 years"	"80-84"	"Male"	"M"	3595	2272851	158.2
+	"2009"	"2009"	"85-89 years"	"85-89"	"Female"	"F"	3826	Not Applicable	Not Applicable
+	"2009"	"2009"	"85-89 years"	"85-89"	"Male"	"M"	2620	Not Applicable	Not Applicable
+	"2009"	"2009"	"90-94 years"	"90-94"	"Female"	"F"	2027	Not Applicable	Not Applicable
+	"2009"	"2009"	"90-94 years"	"90-94"	"Male"	"M"	1112	Not Applicable	Not Applicable
+	"2009"	"2009"	"95-99 years"	"95-99"	"Female"	"F"	763	Not Applicable	Not Applicable
+	"2009"	"2009"	"95-99 years"	"95-99"	"Male"	"M"	260	Not Applicable	Not Applicable
+	"2009"	"2009"	"100+ years"	"100+"	"Female"	"F"	111	Not Applicable	Not Applicable
+	"2009"	"2009"	"100+ years"	"100+"	"Male"	"M"	21	Not Applicable	Not Applicable
+	"2009"	"2009"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2009"	"2009"	"Not Stated"	"NS"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2010"	"2010"	"< 1 year"	"1"	"Female"	"F"	0	1929877	Unreliable
+	"2010"	"2010"	"< 1 year"	"1"	"Male"	"M"	0	2014276	Unreliable
+	"2010"	"2010"	"1-4 years"	"1-4"	"Female"	"F"	0	7952058	Unreliable
+	"2010"	"2010"	"1-4 years"	"1-4"	"Male"	"M"	0	8305151	Unreliable
+	"2010"	"2010"	"5-9 years"	"5-9"	"Female"	"F"	Suppressed	9959019	Suppressed
+	"2010"	"2010"	"5-9 years"	"5-9"	"Male"	"M"	0	10389638	Unreliable
+	"2010"	"2010"	"10-14 years"	"10-14"	"Female"	"F"	Suppressed	10097332	Suppressed
+	"2010"	"2010"	"10-14 years"	"10-14"	"Male"	"M"	0	10579862	Unreliable
+	"2010"	"2010"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10736677	Suppressed
+	"2010"	"2010"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	11303666	Suppressed
+	"2010"	"2010"	"20-24 years"	"20-24"	"Female"	"F"	20	10571823	0.2
+	"2010"	"2010"	"20-24 years"	"20-24"	"Male"	"M"	25	11014176	0.2
+	"2010"	"2010"	"25-29 years"	"25-29"	"Female"	"F"	49	10466258	0.5
+	"2010"	"2010"	"25-29 years"	"25-29"	"Male"	"M"	56	10635591	0.5
+	"2010"	"2010"	"30-34 years"	"30-34"	"Female"	"F"	82	9965599	0.8
+	"2010"	"2010"	"30-34 years"	"30-34"	"Male"	"M"	121	9996500	1.2
+	"2010"	"2010"	"35-39 years"	"35-39"	"Female"	"F"	187	10137620	1.8
+	"2010"	"2010"	"35-39 years"	"35-39"	"Male"	"M"	237	10042022	2.4
+	"2010"	"2010"	"40-44 years"	"40-44"	"Female"	"F"	373	10496987	3.6
+	"2010"	"2010"	"40-44 years"	"40-44"	"Male"	"M"	501	10393977	4.8
+	"2010"	"2010"	"45-49 years"	"45-49"	"Female"	"F"	805	11499506	7.0
+	"2010"	"2010"	"45-49 years"	"45-49"	"Male"	"M"	1003	11209085	8.9
+	"2010"	"2010"	"50-54 years"	"50-54"	"Female"	"F"	1332	11364851	11.7
+	"2010"	"2010"	"50-54 years"	"50-54"	"Male"	"M"	1753	10933274	16.0
+	"2010"	"2010"	"55-59 years"	"55-59"	"Female"	"F"	1661	10141157	16.4
+	"2010"	"2010"	"55-59 years"	"55-59"	"Male"	"M"	2374	9523648	24.9
+	"2010"	"2010"	"60-64 years "	"60-64"	"Female"	"F"	2068	8740424	23.7
+	"2010"	"2010"	"60-64 years "	"60-64"	"Male"	"M"	3139	8077500	38.9
+	"2010"	"2010"	"65-69 years"	"65-69"	"Female"	"F"	2209	6582716	33.6
+	"2010"	"2010"	"65-69 years"	"65-69"	"Male"	"M"	3265	5852547	55.8
+	"2010"	"2010"	"70-74 years"	"70-74"	"Female"	"F"	2491	5034194	49.5
+	"2010"	"2010"	"70-74 years"	"70-74"	"Male"	"M"	3348	4243972	78.9
+	"2010"	"2010"	"75-79 years"	"75-79"	"Female"	"F"	3049	4135407	73.7
+	"2010"	"2010"	"75-79 years"	"75-79"	"Male"	"M"	3457	3182388	108.6
+	"2010"	"2010"	"80-84 years"	"80-84"	"Female"	"F"	3762	3448953	109.1
+	"2010"	"2010"	"80-84 years"	"80-84"	"Male"	"M"	3431	2294374	149.5
+	"2010"	"2010"	"85-89 years"	"85-89"	"Female"	"F"	3715	Not Applicable	Not Applicable
+	"2010"	"2010"	"85-89 years"	"85-89"	"Male"	"M"	2694	Not Applicable	Not Applicable
+	"2010"	"2010"	"90-94 years"	"90-94"	"Female"	"F"	2175	Not Applicable	Not Applicable
+	"2010"	"2010"	"90-94 years"	"90-94"	"Male"	"M"	1205	Not Applicable	Not Applicable
+	"2010"	"2010"	"95-99 years"	"95-99"	"Female"	"F"	780	Not Applicable	Not Applicable
+	"2010"	"2010"	"95-99 years"	"95-99"	"Male"	"M"	289	Not Applicable	Not Applicable
+	"2010"	"2010"	"100+ years"	"100+"	"Female"	"F"	96	Not Applicable	Not Applicable
+	"2010"	"2010"	"100+ years"	"100+"	"Male"	"M"	44	Not Applicable	Not Applicable
+	"2010"	"2010"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2010"	"2010"	"Not Stated"	"NS"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2011"	"2011"	"< 1 year"	"1"	"Female"	"F"	Suppressed	1952827	Suppressed
+	"2011"	"2011"	"< 1 year"	"1"	"Male"	"M"	0	2043710	Unreliable
+	"2011"	"2011"	"1-4 years"	"1-4"	"Female"	"F"	0	7909731	Unreliable
+	"2011"	"2011"	"1-4 years"	"1-4"	"Male"	"M"	0	8255790	Unreliable
+	"2011"	"2011"	"5-9 years"	"5-9"	"Female"	"F"	0	9950009	Unreliable
+	"2011"	"2011"	"5-9 years"	"5-9"	"Male"	"M"	0	10384187	Unreliable
+	"2011"	"2011"	"10-14 years"	"10-14"	"Female"	"F"	0	10117822	Unreliable
+	"2011"	"2011"	"10-14 years"	"10-14"	"Male"	"M"	Suppressed	10587030	Suppressed
+	"2011"	"2011"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10525097	Suppressed
+	"2011"	"2011"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	11118946	Suppressed
+	"2011"	"2011"	"20-24 years"	"20-24"	"Female"	"F"	23	10841132	0.2
+	"2011"	"2011"	"20-24 years"	"20-24"	"Male"	"M"	27	11312700	0.2
+	"2011"	"2011"	"25-29 years"	"25-29"	"Female"	"F"	38	10518279	0.4
+	"2011"	"2011"	"25-29 years"	"25-29"	"Male"	"M"	43	10761515	0.4
+	"2011"	"2011"	"30-34 years"	"30-34"	"Female"	"F"	97	10228056	0.9
+	"2011"	"2011"	"30-34 years"	"30-34"	"Male"	"M"	119	10282648	1.2
+	"2011"	"2011"	"35-39 years"	"35-39"	"Female"	"F"	183	9832998	1.9
+	"2011"	"2011"	"35-39 years"	"35-39"	"Male"	"M"	249	9761311	2.6
+	"2011"	"2011"	"40-44 years"	"40-44"	"Female"	"F"	388	10571486	3.7
+	"2011"	"2011"	"40-44 years"	"40-44"	"Male"	"M"	490	10462159	4.7
+	"2011"	"2011"	"45-49 years"	"45-49"	"Female"	"F"	735	11205304	6.6
+	"2011"	"2011"	"45-49 years"	"45-49"	"Male"	"M"	952	10952701	8.7
+	"2011"	"2011"	"50-54 years"	"50-54"	"Female"	"F"	1347	11493652	11.7
+	"2011"	"2011"	"50-54 years"	"50-54"	"Male"	"M"	1804	11066546	16.3
+	"2011"	"2011"	"55-59 years"	"55-59"	"Female"	"F"	1711	10439497	16.4
+	"2011"	"2011"	"55-59 years"	"55-59"	"Male"	"M"	2513	9816051	25.6
+	"2011"	"2011"	"60-64 years "	"60-64"	"Female"	"F"	2249	9264438	24.3
+	"2011"	"2011"	"60-64 years "	"60-64"	"Male"	"M"	3172	8542154	37.1
+	"2011"	"2011"	"65-69 years"	"65-69"	"Female"	"F"	2259	6801858	33.2
+	"2011"	"2011"	"65-69 years"	"65-69"	"Male"	"M"	3081	6071930	50.7
+	"2011"	"2011"	"70-74 years"	"70-74"	"Female"	"F"	2529	5203567	48.6
+	"2011"	"2011"	"70-74 years"	"70-74"	"Male"	"M"	3390	4404383	77.0
+	"2011"	"2011"	"75-79 years"	"75-79"	"Female"	"F"	2975	4155949	71.6
+	"2011"	"2011"	"75-79 years"	"75-79"	"Male"	"M"	3355	3232738	103.8
+	"2011"	"2011"	"80-84 years"	"80-84"	"Female"	"F"	3575	3446248	103.7
+	"2011"	"2011"	"80-84 years"	"80-84"	"Male"	"M"	3342	2340295	142.8
+	"2011"	"2011"	"85-89 years"	"85-89"	"Female"	"F"	3627	Not Applicable	Not Applicable
+	"2011"	"2011"	"85-89 years"	"85-89"	"Male"	"M"	2602	Not Applicable	Not Applicable
+	"2011"	"2011"	"90-94 years"	"90-94"	"Female"	"F"	2220	Not Applicable	Not Applicable
+	"2011"	"2011"	"90-94 years"	"90-94"	"Male"	"M"	1168	Not Applicable	Not Applicable
+	"2011"	"2011"	"95-99 years"	"95-99"	"Female"	"F"	742	Not Applicable	Not Applicable
+	"2011"	"2011"	"95-99 years"	"95-99"	"Male"	"M"	279	Not Applicable	Not Applicable
+	"2011"	"2011"	"100+ years"	"100+"	"Female"	"F"	96	Not Applicable	Not Applicable
+	"2011"	"2011"	"100+ years"	"100+"	"Male"	"M"	35	Not Applicable	Not Applicable
+	"2011"	"2011"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2011"	"2011"	"Not Stated"	"NS"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2012"	"2012"	"< 1 year"	"1"	"Female"	"F"	0	1926339	Unreliable
+	"2012"	"2012"	"< 1 year"	"1"	"Male"	"M"	0	2016738	Unreliable
+	"2012"	"2012"	"1-4 years"	"1-4"	"Female"	"F"	0	7856870	Unreliable
+	"2012"	"2012"	"1-4 years"	"1-4"	"Male"	"M"	Suppressed	8199397	Suppressed
+	"2012"	"2012"	"5-9 years"	"5-9"	"Female"	"F"	0	10016343	Unreliable
+	"2012"	"2012"	"5-9 years"	"5-9"	"Male"	"M"	0	10459193	Unreliable
+	"2012"	"2012"	"10-14 years"	"10-14"	"Female"	"F"	Suppressed	10102004	Suppressed
+	"2012"	"2012"	"10-14 years"	"10-14"	"Male"	"M"	Suppressed	10567214	Suppressed
+	"2012"	"2012"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10397841	Suppressed
+	"2012"	"2012"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	10962861	Suppressed
+	"2012"	"2012"	"20-24 years"	"20-24"	"Female"	"F"	20	11033747	0.2
+	"2012"	"2012"	"20-24 years"	"20-24"	"Male"	"M"	27	11549456	0.2
+	"2012"	"2012"	"25-29 years"	"25-29"	"Female"	"F"	35	10553440	0.3
+	"2012"	"2012"	"25-29 years"	"25-29"	"Male"	"M"	66	10844886	0.6
+	"2012"	"2012"	"30-34 years"	"30-34"	"Female"	"F"	115	10417089	1.1
+	"2012"	"2012"	"30-34 years"	"30-34"	"Male"	"M"	120	10493906	1.1
+	"2012"	"2012"	"35-39 years"	"35-39"	"Female"	"F"	191	9773586	2.0
+	"2012"	"2012"	"35-39 years"	"35-39"	"Male"	"M"	242	9714613	2.5
+	"2012"	"2012"	"40-44 years"	"40-44"	"Female"	"F"	381	10569227	3.6
+	"2012"	"2012"	"40-44 years"	"40-44"	"Male"	"M"	457	10458994	4.4
+	"2012"	"2012"	"45-49 years"	"45-49"	"Female"	"F"	762	10962854	7.0
+	"2012"	"2012"	"45-49 years"	"45-49"	"Male"	"M"	1007	10726625	9.4
+	"2012"	"2012"	"50-54 years"	"50-54"	"Female"	"F"	1354	11499014	11.8
+	"2012"	"2012"	"50-54 years"	"50-54"	"Male"	"M"	1764	11080245	15.9
+	"2012"	"2012"	"55-59 years"	"55-59"	"Female"	"F"	1690	10704108	15.8
+	"2012"	"2012"	"55-59 years"	"55-59"	"Male"	"M"	2442	10068409	24.3
+	"2012"	"2012"	"60-64 years "	"60-64"	"Female"	"F"	2126	9279200	22.9
+	"2012"	"2012"	"60-64 years "	"60-64"	"Male"	"M"	3111	8534485	36.5
+	"2012"	"2012"	"65-69 years"	"65-69"	"Female"	"F"	2323	7370497	31.5
+	"2012"	"2012"	"65-69 years"	"65-69"	"Male"	"M"	3403	6606856	51.5
+	"2012"	"2012"	"70-74 years"	"70-74"	"Female"	"F"	2543	5412033	47.0
+	"2012"	"2012"	"70-74 years"	"70-74"	"Male"	"M"	3356	4596006	73.0
+	"2012"	"2012"	"75-79 years"	"75-79"	"Female"	"F"	2838	4198131	67.6
+	"2012"	"2012"	"75-79 years"	"75-79"	"Male"	"M"	3384	3291452	102.8
+	"2012"	"2012"	"80-84 years"	"80-84"	"Female"	"F"	3463	3426353	101.1
+	"2012"	"2012"	"80-84 years"	"80-84"	"Male"	"M"	3180	2356698	134.9
+	"2012"	"2012"	"85-89 years"	"85-89"	"Female"	"F"	3559	Not Applicable	Not Applicable
+	"2012"	"2012"	"85-89 years"	"85-89"	"Male"	"M"	2654	Not Applicable	Not Applicable
+	"2012"	"2012"	"90-94 years"	"90-94"	"Female"	"F"	2191	Not Applicable	Not Applicable
+	"2012"	"2012"	"90-94 years"	"90-94"	"Male"	"M"	1148	Not Applicable	Not Applicable
+	"2012"	"2012"	"95-99 years"	"95-99"	"Female"	"F"	749	Not Applicable	Not Applicable
+	"2012"	"2012"	"95-99 years"	"95-99"	"Male"	"M"	272	Not Applicable	Not Applicable
+	"2012"	"2012"	"100+ years"	"100+"	"Female"	"F"	126	Not Applicable	Not Applicable
+	"2012"	"2012"	"100+ years"	"100+"	"Male"	"M"	23	Not Applicable	Not Applicable
+	"2012"	"2012"	"Not Stated"	"NS"	"Female"	"F"	Suppressed	Not Applicable	Not Applicable
+	"2012"	"2012"	"Not Stated"	"NS"	"Male"	"M"	Suppressed	Not Applicable	Not Applicable
+	"2013"	"2013"	"< 1 year"	"1"	"Female"	"F"	0	1925056	Unreliable
+	"2013"	"2013"	"< 1 year"	"1"	"Male"	"M"	0	2016727	Unreliable
+	"2013"	"2013"	"1-4 years"	"1-4"	"Female"	"F"	0	7790614	Unreliable
+	"2013"	"2013"	"1-4 years"	"1-4"	"Male"	"M"	0	8135691	Unreliable
+	"2013"	"2013"	"5-9 years"	"5-9"	"Female"	"F"	0	10061607	Unreliable
+	"2013"	"2013"	"5-9 years"	"5-9"	"Male"	"M"	0	10508974	Unreliable
+	"2013"	"2013"	"10-14 years"	"10-14"	"Female"	"F"	Suppressed	10097931	Suppressed
+	"2013"	"2013"	"10-14 years"	"10-14"	"Male"	"M"	Suppressed	10552523	Suppressed
+	"2013"	"2013"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10312774	Suppressed
+	"2013"	"2013"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	10846190	Suppressed
+	"2013"	"2013"	"20-24 years"	"20-24"	"Female"	"F"	11	11116473	Unreliable
+	"2013"	"2013"	"20-24 years"	"20-24"	"Male"	"M"	23	11678965	0.2
+	"2013"	"2013"	"25-29 years"	"25-29"	"Female"	"F"	44	10620319	0.4
+	"2013"	"2013"	"25-29 years"	"25-29"	"Male"	"M"	57	10959879	0.5
+	"2013"	"2013"	"30-34 years"	"30-34"	"Female"	"F"	110	10582777	1.0
+	"2013"	"2013"	"30-34 years"	"30-34"	"Male"	"M"	147	10681612	1.4
+	"2013"	"2013"	"35-39 years"	"35-39"	"Female"	"F"	182	9818501	1.9
+	"2013"	"2013"	"35-39 years"	"35-39"	"Male"	"M"	257	9785269	2.6
+	"2013"	"2013"	"40-44 years"	"40-44"	"Female"	"F"	415	10488928	4.0
+	"2013"	"2013"	"40-44 years"	"40-44"	"Male"	"M"	491	10359992	4.7
+	"2013"	"2013"	"45-49 years"	"45-49"	"Female"	"F"	715	10710188	6.7
+	"2013"	"2013"	"45-49 years"	"45-49"	"Male"	"M"	979	10498118	9.3
+	"2013"	"2013"	"50-54 years"	"50-54"	"Female"	"F"	1344	11488260	11.7
+	"2013"	"2013"	"50-54 years"	"50-54"	"Male"	"M"	1853	11070966	16.7
+	"2013"	"2013"	"55-59 years"	"55-59"	"Female"	"F"	1676	10912048	15.4
+	"2013"	"2013"	"55-59 years"	"55-59"	"Male"	"M"	2495	10282382	24.3
+	"2013"	"2013"	"60-64 years "	"60-64"	"Female"	"F"	2111	9447628	22.3
+	"2013"	"2013"	"60-64 years "	"60-64"	"Male"	"M"	3154	8674373	36.4
+	"2013"	"2013"	"65-69 years"	"65-69"	"Female"	"F"	2373	7695527	30.8
+	"2013"	"2013"	"65-69 years"	"65-69"	"Male"	"M"	3411	6913190	49.3
+	"2013"	"2013"	"70-74 years"	"70-74"	"Female"	"F"	2542	5723597	44.4
+	"2013"	"2013"	"70-74 years"	"70-74"	"Male"	"M"	3467	4884452	71.0
+	"2013"	"2013"	"75-79 years"	"75-79"	"Female"	"F"	2894	4287534	67.5
+	"2013"	"2013"	"75-79 years"	"75-79"	"Male"	"M"	3267	3390347	96.4
+	"2013"	"2013"	"80-84 years"	"80-84"	"Female"	"F"	3376	3398468	99.3
+	"2013"	"2013"	"80-84 years"	"80-84"	"Male"	"M"	3230	2370170	136.3
+	"2013"	"2013"	"85-89 years"	"85-89"	"Female"	"F"	3430	Not Applicable	Not Applicable
+	"2013"	"2013"	"85-89 years"	"85-89"	"Male"	"M"	2511	Not Applicable	Not Applicable
+	"2013"	"2013"	"90-94 years"	"90-94"	"Female"	"F"	2285	Not Applicable	Not Applicable
+	"2013"	"2013"	"90-94 years"	"90-94"	"Male"	"M"	1329	Not Applicable	Not Applicable
+	"2013"	"2013"	"95-99 years"	"95-99"	"Female"	"F"	747	Not Applicable	Not Applicable
+	"2013"	"2013"	"95-99 years"	"95-99"	"Male"	"M"	277	Not Applicable	Not Applicable
+	"2013"	"2013"	"100+ years"	"100+"	"Female"	"F"	109	Not Applicable	Not Applicable
+	"2013"	"2013"	"100+ years"	"100+"	"Male"	"M"	27	Not Applicable	Not Applicable
+	"2013"	"2013"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2013"	"2013"	"Not Stated"	"NS"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2014"	"2014"	"< 1 year"	"1"	"Female"	"F"	0	1930493	Unreliable
+	"2014"	"2014"	"< 1 year"	"1"	"Male"	"M"	0	2017857	Unreliable
+	"2014"	"2014"	"1-4 years"	"1-4"	"Female"	"F"	0	7790662	Unreliable
+	"2014"	"2014"	"1-4 years"	"1-4"	"Male"	"M"	0	8137871	Unreliable
+	"2014"	"2014"	"5-9 years"	"5-9"	"Female"	"F"	0	10041137	Unreliable
+	"2014"	"2014"	"5-9 years"	"5-9"	"Male"	"M"	0	10478429	Unreliable
+	"2014"	"2014"	"10-14 years"	"10-14"	"Female"	"F"	0	10120287	Unreliable
+	"2014"	"2014"	"10-14 years"	"10-14"	"Male"	"M"	Suppressed	10551219	Suppressed
+	"2014"	"2014"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10283624	Suppressed
+	"2014"	"2014"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	10784023	Suppressed
+	"2014"	"2014"	"20-24 years"	"20-24"	"Female"	"F"	19	11172747	Unreliable
+	"2014"	"2014"	"20-24 years"	"20-24"	"Male"	"M"	30	11739427	0.3
+	"2014"	"2014"	"25-29 years"	"25-29"	"Female"	"F"	34	10826549	0.3
+	"2014"	"2014"	"25-29 years"	"25-29"	"Male"	"M"	58	11161389	0.5
+	"2014"	"2014"	"30-34 years"	"30-34"	"Female"	"F"	99	10719741	0.9
+	"2014"	"2014"	"30-34 years"	"30-34"	"Male"	"M"	124	10808825	1.1
+	"2014"	"2014"	"35-39 years"	"35-39"	"Female"	"F"	223	9981814	2.2
+	"2014"	"2014"	"35-39 years"	"35-39"	"Male"	"M"	230	9939836	2.3
+	"2014"	"2014"	"40-44 years"	"40-44"	"Female"	"F"	393	10372090	3.8
+	"2014"	"2014"	"40-44 years"	"40-44"	"Male"	"M"	528	10219393	5.2
+	"2014"	"2014"	"45-49 years"	"45-49"	"Female"	"F"	796	10540579	7.6
+	"2014"	"2014"	"45-49 years"	"45-49"	"Male"	"M"	1013	10347463	9.8
+	"2014"	"2014"	"50-54 years"	"50-54"	"Female"	"F"	1253	11493228	10.9
+	"2014"	"2014"	"50-54 years"	"50-54"	"Male"	"M"	1790	11077581	16.2
+	"2014"	"2014"	"55-59 years"	"55-59"	"Female"	"F"	1745	11067461	15.8
+	"2014"	"2014"	"55-59 years"	"55-59"	"Male"	"M"	2584	10443988	24.7
+	"2014"	"2014"	"60-64 years "	"60-64"	"Female"	"F"	2111	9688238	21.8
+	"2014"	"2014"	"60-64 years "	"60-64"	"Male"	"M"	3179	8877894	35.8
+	"2014"	"2014"	"65-69 years"	"65-69"	"Female"	"F"	2462	8076160	30.5
+	"2014"	"2014"	"65-69 years"	"65-69"	"Male"	"M"	3484	7249106	48.1
+	"2014"	"2014"	"70-74 years"	"70-74"	"Female"	"F"	2556	5973085	42.8
+	"2014"	"2014"	"70-74 years"	"70-74"	"Male"	"M"	3247	5099939	63.7
+	"2014"	"2014"	"75-79 years"	"75-79"	"Female"	"F"	2876	4410758	65.2
+	"2014"	"2014"	"75-79 years"	"75-79"	"Male"	"M"	3310	3511566	94.3
+	"2014"	"2014"	"80-84 years"	"80-84"	"Female"	"F"	3197	3378554	94.6
+	"2014"	"2014"	"80-84 years"	"80-84"	"Male"	"M"	3125	2381812	131.2
+	"2014"	"2014"	"85-89 years"	"85-89"	"Female"	"F"	3411	Not Applicable	Not Applicable
+	"2014"	"2014"	"85-89 years"	"85-89"	"Male"	"M"	2576	Not Applicable	Not Applicable
+	"2014"	"2014"	"90-94 years"	"90-94"	"Female"	"F"	2286	Not Applicable	Not Applicable
+	"2014"	"2014"	"90-94 years"	"90-94"	"Male"	"M"	1330	Not Applicable	Not Applicable
+	"2014"	"2014"	"95-99 years"	"95-99"	"Female"	"F"	779	Not Applicable	Not Applicable
+	"2014"	"2014"	"95-99 years"	"95-99"	"Male"	"M"	305	Not Applicable	Not Applicable
+	"2014"	"2014"	"100+ years"	"100+"	"Female"	"F"	118	Not Applicable	Not Applicable
+	"2014"	"2014"	"100+ years"	"100+"	"Male"	"M"	36	Not Applicable	Not Applicable
+	"2014"	"2014"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2014"	"2014"	"Not Stated"	"NS"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2015"	"2015"	"< 1 year"	"1"	"Female"	"F"	0	1942904	Unreliable
+	"2015"	"2015"	"< 1 year"	"1"	"Male"	"M"	0	2035134	Unreliable
+	"2015"	"2015"	"1-4 years"	"1-4"	"Female"	"F"	0	7786776	Unreliable
+	"2015"	"2015"	"1-4 years"	"1-4"	"Male"	"M"	0	8142467	Unreliable
+	"2015"	"2015"	"5-9 years"	"5-9"	"Female"	"F"	0	10028044	Unreliable
+	"2015"	"2015"	"5-9 years"	"5-9"	"Male"	"M"	0	10459132	Unreliable
+	"2015"	"2015"	"10-14 years"	"10-14"	"Female"	"F"	0	10101942	Unreliable
+	"2015"	"2015"	"10-14 years"	"10-14"	"Male"	"M"	0	10520388	Unreliable
+	"2015"	"2015"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10311036	Suppressed
+	"2015"	"2015"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	10797867	Suppressed
+	"2015"	"2015"	"20-24 years"	"20-24"	"Female"	"F"	15	11071459	Unreliable
+	"2015"	"2015"	"20-24 years"	"20-24"	"Male"	"M"	21	11667854	0.2
+	"2015"	"2015"	"25-29 years"	"25-29"	"Female"	"F"	45	11052155	0.4
+	"2015"	"2015"	"25-29 years"	"25-29"	"Male"	"M"	59	11409399	0.5
+	"2015"	"2015"	"30-34 years"	"30-34"	"Female"	"F"	110	10785909	1.0
+	"2015"	"2015"	"30-34 years"	"30-34"	"Male"	"M"	145	10889739	1.3
+	"2015"	"2015"	"35-39 years"	"35-39"	"Female"	"F"	198	10201161	1.9
+	"2015"	"2015"	"35-39 years"	"35-39"	"Male"	"M"	263	10173424	2.6
+	"2015"	"2015"	"40-44 years"	"40-44"	"Female"	"F"	410	10185045	4.0
+	"2015"	"2015"	"40-44 years"	"40-44"	"Male"	"M"	489	10030153	4.9
+	"2015"	"2015"	"45-49 years"	"45-49"	"Female"	"F"	766	10518915	7.3
+	"2015"	"2015"	"45-49 years"	"45-49"	"Male"	"M"	947	10334929	9.2
+	"2015"	"2015"	"50-54 years"	"50-54"	"Female"	"F"	1336	11370470	11.7
+	"2015"	"2015"	"50-54 years"	"50-54"	"Male"	"M"	1774	10963847	16.2
+	"2015"	"2015"	"55-59 years"	"55-59"	"Female"	"F"	1871	11210375	16.7
+	"2015"	"2015"	"55-59 years"	"55-59"	"Male"	"M"	2684	10597567	25.3
+	"2015"	"2015"	"60-64 years "	"60-64"	"Female"	"F"	2172	9952697	21.8
+	"2015"	"2015"	"60-64 years "	"60-64"	"Male"	"M"	3236	9117180	35.5
+	"2015"	"2015"	"65-69 years"	"65-69"	"Female"	"F"	2585	8471278	30.5
+	"2015"	"2015"	"65-69 years"	"65-69"	"Male"	"M"	3630	7596190	47.8
+	"2015"	"2015"	"70-74 years"	"70-74"	"Female"	"F"	2645	6186891	42.8
+	"2015"	"2015"	"70-74 years"	"70-74"	"Male"	"M"	3467	5296158	65.5
+	"2015"	"2015"	"75-79 years"	"75-79"	"Female"	"F"	2840	4512927	62.9
+	"2015"	"2015"	"75-79 years"	"75-79"	"Male"	"M"	3334	3610906	92.3
+	"2015"	"2015"	"80-84 years"	"80-84"	"Female"	"F"	3159	3386676	93.3
+	"2015"	"2015"	"80-84 years"	"80-84"	"Male"	"M"	3069	2412665	127.2
+	"2015"	"2015"	"85-89 years"	"85-89"	"Female"	"F"	3276	Not Applicable	Not Applicable
+	"2015"	"2015"	"85-89 years"	"85-89"	"Male"	"M"	2559	Not Applicable	Not Applicable
+	"2015"	"2015"	"90-94 years"	"90-94"	"Female"	"F"	2369	Not Applicable	Not Applicable
+	"2015"	"2015"	"90-94 years"	"90-94"	"Male"	"M"	1340	Not Applicable	Not Applicable
+	"2015"	"2015"	"95-99 years"	"95-99"	"Female"	"F"	829	Not Applicable	Not Applicable
+	"2015"	"2015"	"95-99 years"	"95-99"	"Male"	"M"	340	Not Applicable	Not Applicable
+	"2015"	"2015"	"100+ years"	"100+"	"Female"	"F"	143	Not Applicable	Not Applicable
+	"2015"	"2015"	"100+ years"	"100+"	"Male"	"M"	30	Not Applicable	Not Applicable
+	"2015"	"2015"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2015"	"2015"	"Not Stated"	"NS"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2016"	"2016"	"< 1 year"	"1"	"Female"	"F"	0	1939667	Unreliable
+	"2016"	"2016"	"< 1 year"	"1"	"Male"	"M"	0	2030478	Unreliable
+	"2016"	"2016"	"1-4 years"	"1-4"	"Female"	"F"	0	7800517	Unreliable
+	"2016"	"2016"	"1-4 years"	"1-4"	"Male"	"M"	0	8156375	Unreliable
+	"2016"	"2016"	"5-9 years"	"5-9"	"Female"	"F"	0	9999876	Unreliable
+	"2016"	"2016"	"5-9 years"	"5-9"	"Male"	"M"	0	10429923	Unreliable
+	"2016"	"2016"	"10-14 years"	"10-14"	"Female"	"F"	0	10099501	Unreliable
+	"2016"	"2016"	"10-14 years"	"10-14"	"Male"	"M"	Suppressed	10518732	Suppressed
+	"2016"	"2016"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10328153	Suppressed
+	"2016"	"2016"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	10801846	Suppressed
+	"2016"	"2016"	"20-24 years"	"20-24"	"Female"	"F"	21	10889963	0.2
+	"2016"	"2016"	"20-24 years"	"20-24"	"Male"	"M"	12	11491065	Unreliable
+	"2016"	"2016"	"25-29 years"	"25-29"	"Female"	"F"	49	11259410	0.4
+	"2016"	"2016"	"25-29 years"	"25-29"	"Male"	"M"	60	11631474	0.5
+	"2016"	"2016"	"30-34 years"	"30-34"	"Female"	"F"	117	10818095	1.1
+	"2016"	"2016"	"30-34 years"	"30-34"	"Male"	"M"	140	10968264	1.3
+	"2016"	"2016"	"35-39 years"	"35-39"	"Female"	"F"	230	10397463	2.2
+	"2016"	"2016"	"35-39 years"	"35-39"	"Male"	"M"	273	10376442	2.6
+	"2016"	"2016"	"40-44 years"	"40-44"	"Female"	"F"	410	9919930	4.1
+	"2016"	"2016"	"40-44 years"	"40-44"	"Male"	"M"	478	9776321	4.9
+	"2016"	"2016"	"45-49 years"	"45-49"	"Female"	"F"	765	10571668	7.2
+	"2016"	"2016"	"45-49 years"	"45-49"	"Male"	"M"	994	10375955	9.6
+	"2016"	"2016"	"50-54 years"	"50-54"	"Female"	"F"	1238	11108872	11.1
+	"2016"	"2016"	"50-54 years"	"50-54"	"Male"	"M"	1766	10730184	16.5
+	"2016"	"2016"	"55-59 years"	"55-59"	"Female"	"F"	1898	11296702	16.8
+	"2016"	"2016"	"55-59 years"	"55-59"	"Male"	"M"	2625	10683406	24.6
+	"2016"	"2016"	"60-64 years "	"60-64"	"Female"	"F"	2244	10167404	22.1
+	"2016"	"2016"	"60-64 years "	"60-64"	"Male"	"M"	3381	9315632	36.3
+	"2016"	"2016"	"65-69 years"	"65-69"	"Female"	"F"	2684	8883164	30.2
+	"2016"	"2016"	"65-69 years"	"65-69"	"Male"	"M"	3831	7936919	48.3
+	"2016"	"2016"	"70-74 years"	"70-74"	"Female"	"F"	2500	6356057	39.3
+	"2016"	"2016"	"70-74 years"	"70-74"	"Male"	"M"	3436	5454190	63.0
+	"2016"	"2016"	"75-79 years"	"75-79"	"Female"	"F"	2778	4644276	59.8
+	"2016"	"2016"	"75-79 years"	"75-79"	"Male"	"M"	3288	3723619	88.3
+	"2016"	"2016"	"80-84 years"	"80-84"	"Female"	"F"	3144	3412384	92.1
+	"2016"	"2016"	"80-84 years"	"80-84"	"Male"	"M"	2994	2453255	122.0
+	"2016"	"2016"	"85-89 years"	"85-89"	"Female"	"F"	3302	Not Applicable	Not Applicable
+	"2016"	"2016"	"85-89 years"	"85-89"	"Male"	"M"	2497	Not Applicable	Not Applicable
+	"2016"	"2016"	"90-94 years"	"90-94"	"Female"	"F"	2233	Not Applicable	Not Applicable
+	"2016"	"2016"	"90-94 years"	"90-94"	"Male"	"M"	1338	Not Applicable	Not Applicable
+	"2016"	"2016"	"95-99 years"	"95-99"	"Female"	"F"	772	Not Applicable	Not Applicable
+	"2016"	"2016"	"95-99 years"	"95-99"	"Male"	"M"	354	Not Applicable	Not Applicable
+	"2016"	"2016"	"100+ years"	"100+"	"Female"	"F"	120	Not Applicable	Not Applicable
+	"2016"	"2016"	"100+ years"	"100+"	"Male"	"M"	33	Not Applicable	Not Applicable
+	"2016"	"2016"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2016"	"2016"	"Not Stated"	"NS"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2017"	"2017"	"< 1 year"	"1"	"Female"	"F"	0	1924145	Unreliable
+	"2017"	"2017"	"< 1 year"	"1"	"Male"	"M"	0	2015150	Unreliable
+	"2017"	"2017"	"1-4 years"	"1-4"	"Female"	"F"	0	7818747	Unreliable
+	"2017"	"2017"	"1-4 years"	"1-4"	"Male"	"M"	0	8180818	Unreliable
+	"2017"	"2017"	"5-9 years"	"5-9"	"Female"	"F"	0	9936097	Unreliable
+	"2017"	"2017"	"5-9 years"	"5-9"	"Male"	"M"	0	10368141	Unreliable
+	"2017"	"2017"	"10-14 years"	"10-14"	"Female"	"F"	0	10173382	Unreliable
+	"2017"	"2017"	"10-14 years"	"10-14"	"Male"	"M"	Suppressed	10605072	Suppressed
+	"2017"	"2017"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10331169	Suppressed
+	"2017"	"2017"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	10800491	Suppressed
+	"2017"	"2017"	"20-24 years"	"20-24"	"Female"	"F"	13	10769493	Unreliable
+	"2017"	"2017"	"20-24 years"	"20-24"	"Male"	"M"	20	11349142	0.2
+	"2017"	"2017"	"25-29 years"	"25-29"	"Female"	"F"	45	11468230	0.4
+	"2017"	"2017"	"25-29 years"	"25-29"	"Male"	"M"	55	11902230	0.5
+	"2017"	"2017"	"30-34 years"	"30-34"	"Female"	"F"	125	10883081	1.1
+	"2017"	"2017"	"30-34 years"	"30-34"	"Male"	"M"	108	11089131	1.0
+	"2017"	"2017"	"35-39 years"	"35-39"	"Female"	"F"	213	10616012	2.0
+	"2017"	"2017"	"35-39 years"	"35-39"	"Male"	"M"	280	10615985	2.6
+	"2017"	"2017"	"40-44 years"	"40-44"	"Female"	"F"	411	9890258	4.2
+	"2017"	"2017"	"40-44 years"	"40-44"	"Male"	"M"	514	9753115	5.3
+	"2017"	"2017"	"45-49 years"	"45-49"	"Female"	"F"	792	10587683	7.5
+	"2017"	"2017"	"45-49 years"	"45-49"	"Male"	"M"	1015	10386175	9.8
+	"2017"	"2017"	"50-54 years"	"50-54"	"Female"	"F"	1247	10880912	11.5
+	"2017"	"2017"	"50-54 years"	"50-54"	"Male"	"M"	1777	10520182	16.9
+	"2017"	"2017"	"55-59 years"	"55-59"	"Female"	"F"	1861	11307436	16.5
+	"2017"	"2017"	"55-59 years"	"55-59"	"Male"	"M"	2611	10700520	24.4
+	"2017"	"2017"	"60-64 years "	"60-64"	"Female"	"F"	2222	10430419	21.3
+	"2017"	"2017"	"60-64 years "	"60-64"	"Male"	"M"	3383	9557283	35.4
+	"2017"	"2017"	"65-69 years"	"65-69"	"Female"	"F"	2674	8906513	30.0
+	"2017"	"2017"	"65-69 years"	"65-69"	"Male"	"M"	3806	7929868	48.0
+	"2017"	"2017"	"70-74 years"	"70-74"	"Female"	"F"	2656	6899793	38.5
+	"2017"	"2017"	"70-74 years"	"70-74"	"Male"	"M"	3585	5947272	60.3
+	"2017"	"2017"	"75-79 years"	"75-79"	"Female"	"F"	2895	4842445	59.8
+	"2017"	"2017"	"75-79 years"	"75-79"	"Male"	"M"	3298	3898816	84.6
+	"2017"	"2017"	"80-84 years"	"80-84"	"Female"	"F"	3043	3456231	88.0
+	"2017"	"2017"	"80-84 years"	"80-84"	"Male"	"M"	2990	2509059	119.2
+	"2017"	"2017"	"85-89 years"	"85-89"	"Female"	"F"	3259	Not Applicable	Not Applicable
+	"2017"	"2017"	"85-89 years"	"85-89"	"Male"	"M"	2455	Not Applicable	Not Applicable
+	"2017"	"2017"	"90-94 years"	"90-94"	"Female"	"F"	2248	Not Applicable	Not Applicable
+	"2017"	"2017"	"90-94 years"	"90-94"	"Male"	"M"	1356	Not Applicable	Not Applicable
+	"2017"	"2017"	"95-99 years"	"95-99"	"Female"	"F"	807	Not Applicable	Not Applicable
+	"2017"	"2017"	"95-99 years"	"95-99"	"Male"	"M"	362	Not Applicable	Not Applicable
+	"2017"	"2017"	"100+ years"	"100+"	"Female"	"F"	108	Not Applicable	Not Applicable
+	"2017"	"2017"	"100+ years"	"100+"	"Male"	"M"	36	Not Applicable	Not Applicable
+	"2017"	"2017"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2017"	"2017"	"Not Stated"	"NS"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"< 1 year"	"1"	"Female"	"F"	0	1879703	Unreliable
+	"2018"	"2018"	"< 1 year"	"1"	"Male"	"M"	0	1968505	Unreliable
+	"2018"	"2018"	"1-4 years"	"1-4"	"Female"	"F"	0	7798370	Unreliable
+	"2018"	"2018"	"1-4 years"	"1-4"	"Male"	"M"	0	8163697	Unreliable
+	"2018"	"2018"	"5-9 years"	"5-9"	"Female"	"F"	0	9879652	Unreliable
+	"2018"	"2018"	"5-9 years"	"5-9"	"Male"	"M"	Suppressed	10315990	Suppressed
+	"2018"	"2018"	"10-14 years"	"10-14"	"Female"	"F"	Suppressed	10220687	Suppressed
+	"2018"	"2018"	"10-14 years"	"10-14"	"Male"	"M"	0	10658840	Unreliable
+	"2018"	"2018"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10322313	Suppressed
+	"2018"	"2018"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	10774908	Suppressed
+	"2018"	"2018"	"20-24 years"	"20-24"	"Female"	"F"	Suppressed	10672032	Suppressed
+	"2018"	"2018"	"20-24 years"	"20-24"	"Male"	"M"	13	11201547	Unreliable
+	"2018"	"2018"	"25-29 years"	"25-29"	"Female"	"F"	42	11542918	0.4
+	"2018"	"2018"	"25-29 years"	"25-29"	"Male"	"M"	60	12018838	0.5
+	"2018"	"2018"	"30-34 years"	"30-34"	"Female"	"F"	117	10944147	1.1
+	"2018"	"2018"	"30-34 years"	"30-34"	"Male"	"M"	143	11191871	1.3
+	"2018"	"2018"	"35-39 years"	"35-39"	"Female"	"F"	227	10773397	2.1
+	"2018"	"2018"	"35-39 years"	"35-39"	"Male"	"M"	304	10790190	2.8
+	"2018"	"2018"	"40-44 years"	"40-44"	"Female"	"F"	390	9916891	3.9
+	"2018"	"2018"	"40-44 years"	"40-44"	"Male"	"M"	487	9797410	5.0
+	"2018"	"2018"	"45-49 years"	"45-49"	"Female"	"F"	786	10483140	7.5
+	"2018"	"2018"	"45-49 years"	"45-49"	"Male"	"M"	1085	10263995	10.6
+	"2018"	"2018"	"50-54 years"	"50-54"	"Female"	"F"	1197	10607357	11.3
+	"2018"	"2018"	"50-54 years"	"50-54"	"Male"	"M"	1762	10277207	17.1
+	"2018"	"2018"	"55-59 years"	"55-59"	"Female"	"F"	1822	11271658	16.2
+	"2018"	"2018"	"55-59 years"	"55-59"	"Male"	"M"	2613	10669327	24.5
+	"2018"	"2018"	"60-64 years "	"60-64"	"Female"	"F"	2147	10602115	20.3
+	"2018"	"2018"	"60-64 years "	"60-64"	"Male"	"M"	3373	9729536	34.7
+	"2018"	"2018"	"65-69 years"	"65-69"	"Female"	"F"	2629	9052080	29.0
+	"2018"	"2018"	"65-69 years"	"65-69"	"Male"	"M"	3665	8034813	45.6
+	"2018"	"2018"	"70-74 years"	"70-74"	"Female"	"F"	2763	7194151	38.4
+	"2018"	"2018"	"70-74 years"	"70-74"	"Male"	"M"	3628	6211272	58.4
+	"2018"	"2018"	"75-79 years"	"75-79"	"Female"	"F"	2796	5122392	54.6
+	"2018"	"2018"	"75-79 years"	"75-79"	"Male"	"M"	3380	4144674	81.6
+	"2018"	"2018"	"80-84 years"	"80-84"	"Female"	"F"	2963	3536942	83.8
+	"2018"	"2018"	"80-84 years"	"80-84"	"Male"	"M"	3132	2590366	120.9
+	"2018"	"2018"	"85-89 years"	"85-89"	"Female"	"F"	2985	Not Applicable	Not Applicable
+	"2018"	"2018"	"85-89 years"	"85-89"	"Male"	"M"	2443	Not Applicable	Not Applicable
+	"2018"	"2018"	"90-94 years"	"90-94"	"Female"	"F"	2196	Not Applicable	Not Applicable
+	"2018"	"2018"	"90-94 years"	"90-94"	"Male"	"M"	1317	Not Applicable	Not Applicable
+	"2018"	"2018"	"95-99 years"	"95-99"	"Female"	"F"	860	Not Applicable	Not Applicable
+	"2018"	"2018"	"95-99 years"	"95-99"	"Male"	"M"	385	Not Applicable	Not Applicable
+	"2018"	"2018"	"100+ years"	"100+"	"Female"	"F"	127	Not Applicable	Not Applicable
+	"2018"	"2018"	"100+ years"	"100+"	"Male"	"M"	32	Not Applicable	Not Applicable
+	"2018"	"2018"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2018"	"2018"	"Not Stated"	"NS"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"< 1 year"	"1"	"Female"	"F"	0	1847935	Unreliable
+	"2019"	"2019"	"< 1 year"	"1"	"Male"	"M"	0	1935117	Unreliable
+	"2019"	"2019"	"1-4 years"	"1-4"	"Female"	"F"	0	7719541	Unreliable
+	"2019"	"2019"	"1-4 years"	"1-4"	"Male"	"M"	0	8074090	Unreliable
+	"2019"	"2019"	"5-9 years"	"5-9"	"Female"	"F"	0	9873133	Unreliable
+	"2019"	"2019"	"5-9 years"	"5-9"	"Male"	"M"	0	10322762	Unreliable
+	"2019"	"2019"	"10-14 years"	"10-14"	"Female"	"F"	Suppressed	10180007	Suppressed
+	"2019"	"2019"	"10-14 years"	"10-14"	"Male"	"M"	0	10618261	Unreliable
+	"2019"	"2019"	"15-19 years"	"15-19"	"Female"	"F"	0	10308963	Unreliable
+	"2019"	"2019"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	10745607	Suppressed
+	"2019"	"2019"	"20-24 years"	"20-24"	"Female"	"F"	16	10568188	Unreliable
+	"2019"	"2019"	"20-24 years"	"20-24"	"Male"	"M"	15	11064752	Unreliable
+	"2019"	"2019"	"25-29 years"	"25-29"	"Female"	"F"	49	11504446	0.4
+	"2019"	"2019"	"25-29 years"	"25-29"	"Male"	"M"	51	12004570	0.4
+	"2019"	"2019"	"30-34 years"	"30-34"	"Female"	"F"	82	11076695	0.7
+	"2019"	"2019"	"30-34 years"	"30-34"	"Male"	"M"	134	11354610	1.2
+	"2019"	"2019"	"35-39 years"	"35-39"	"Female"	"F"	231	10852580	2.1
+	"2019"	"2019"	"35-39 years"	"35-39"	"Male"	"M"	279	10884941	2.6
+	"2019"	"2019"	"40-44 years"	"40-44"	"Female"	"F"	386	10014484	3.9
+	"2019"	"2019"	"40-44 years"	"40-44"	"Male"	"M"	495	9907139	5.0
+	"2019"	"2019"	"45-49 years"	"45-49"	"Female"	"F"	759	10312396	7.4
+	"2019"	"2019"	"45-49 years"	"45-49"	"Male"	"M"	1079	10085355	10.7
+	"2019"	"2019"	"50-54 years"	"50-54"	"Female"	"F"	1183	10390540	11.4
+	"2019"	"2019"	"50-54 years"	"50-54"	"Male"	"M"	1705	10086611	16.9
+	"2019"	"2019"	"55-59 years"	"55-59"	"Female"	"F"	1742	11234902	15.5
+	"2019"	"2019"	"55-59 years"	"55-59"	"Male"	"M"	2592	10642489	24.4
+	"2019"	"2019"	"60-64 years "	"60-64"	"Female"	"F"	2226	10714416	20.8
+	"2019"	"2019"	"60-64 years "	"60-64"	"Male"	"M"	3462	9856730	35.1
+	"2019"	"2019"	"65-69 years"	"65-69"	"Female"	"F"	2528	9255228	27.3
+	"2019"	"2019"	"65-69 years"	"65-69"	"Male"	"M"	3679	8199773	44.9
+	"2019"	"2019"	"70-74 years"	"70-74"	"Female"	"F"	2806	7528626	37.3
+	"2019"	"2019"	"70-74 years"	"70-74"	"Male"	"M"	3647	6499806	56.1
+	"2019"	"2019"	"75-79 years"	"75-79"	"Female"	"F"	2862	5334166	53.7
+	"2019"	"2019"	"75-79 years"	"75-79"	"Male"	"M"	3381	4318499	78.3
+	"2019"	"2019"	"80-84 years"	"80-84"	"Female"	"F"	3007	3637483	82.7
+	"2019"	"2019"	"80-84 years"	"80-84"	"Male"	"M"	2940	2679724	109.7
+	"2019"	"2019"	"85-89 years"	"85-89"	"Female"	"F"	3090	Not Applicable	Not Applicable
+	"2019"	"2019"	"85-89 years"	"85-89"	"Male"	"M"	2352	Not Applicable	Not Applicable
+	"2019"	"2019"	"90-94 years"	"90-94"	"Female"	"F"	2179	Not Applicable	Not Applicable
+	"2019"	"2019"	"90-94 years"	"90-94"	"Male"	"M"	1312	Not Applicable	Not Applicable
+	"2019"	"2019"	"95-99 years"	"95-99"	"Female"	"F"	833	Not Applicable	Not Applicable
+	"2019"	"2019"	"95-99 years"	"95-99"	"Male"	"M"	366	Not Applicable	Not Applicable
+	"2019"	"2019"	"100+ years"	"100+"	"Female"	"F"	107	Not Applicable	Not Applicable
+	"2019"	"2019"	"100+ years"	"100+"	"Male"	"M"	34	Not Applicable	Not Applicable
+	"2019"	"2019"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2019"	"2019"	"Not Stated"	"NS"	"Male"	"M"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"< 1 year"	"1"	"Female"	"F"	0	1826869	Unreliable
+	"2020"	"2020"	"< 1 year"	"1"	"Male"	"M"	0	1908141	Unreliable
+	"2020"	"2020"	"1-4 years"	"1-4"	"Female"	"F"	0	7613266	Unreliable
+	"2020"	"2020"	"1-4 years"	"1-4"	"Male"	"M"	0	7953016	Unreliable
+	"2020"	"2020"	"5-9 years"	"5-9"	"Female"	"F"	0	9890958	Unreliable
+	"2020"	"2020"	"5-9 years"	"5-9"	"Male"	"M"	0	10346753	Unreliable
+	"2020"	"2020"	"10-14 years"	"10-14"	"Female"	"F"	0	10159455	Unreliable
+	"2020"	"2020"	"10-14 years"	"10-14"	"Male"	"M"	0	10594968	Unreliable
+	"2020"	"2020"	"15-19 years"	"15-19"	"Female"	"F"	Suppressed	10266332	Suppressed
+	"2020"	"2020"	"15-19 years"	"15-19"	"Male"	"M"	Suppressed	10694597	Suppressed
+	"2020"	"2020"	"20-24 years"	"20-24"	"Female"	"F"	Suppressed	10561909	Suppressed
+	"2020"	"2020"	"20-24 years"	"20-24"	"Male"	"M"	31	11032846	0.3
+	"2020"	"2020"	"25-29 years"	"25-29"	"Female"	"F"	37	11356117	0.3
+	"2020"	"2020"	"25-29 years"	"25-29"	"Male"	"M"	74	11875126	0.6
+	"2020"	"2020"	"30-34 years"	"30-34"	"Female"	"F"	126	11269150	1.1
+	"2020"	"2020"	"30-34 years"	"30-34"	"Male"	"M"	160	11569253	1.4
+	"2020"	"2020"	"35-39 years"	"35-39"	"Female"	"F"	219	10890716	2.0
+	"2020"	"2020"	"35-39 years"	"35-39"	"Male"	"M"	295	10937588	2.7
+	"2020"	"2020"	"40-44 years"	"40-44"	"Female"	"F"	421	10199608	4.1
+	"2020"	"2020"	"40-44 years"	"40-44"	"Male"	"M"	544	10108280	5.4
+	"2020"	"2020"	"45-49 years"	"45-49"	"Female"	"F"	736	10097702	7.3
+	"2020"	"2020"	"45-49 years"	"45-49"	"Male"	"M"	1025	9872904	10.4
+	"2020"	"2020"	"50-54 years"	"50-54"	"Female"	"F"	1213	10343739	11.7
+	"2020"	"2020"	"50-54 years"	"50-54"	"Male"	"M"	1679	10051788	16.7
+	"2020"	"2020"	"55-59 years"	"55-59"	"Female"	"F"	1755	11091171	15.8
+	"2020"	"2020"	"55-59 years"	"55-59"	"Male"	"M"	2611	10511928	24.8
+	"2020"	"2020"	"60-64 years "	"60-64"	"Female"	"F"	2242	10823072	20.7
+	"2020"	"2020"	"60-64 years "	"60-64"	"Male"	"M"	3538	9977506	35.5
+	"2020"	"2020"	"65-69 years"	"65-69"	"Female"	"F"	2580	9483316	27.2
+	"2020"	"2020"	"65-69 years"	"65-69"	"Male"	"M"	3794	8390351	45.2
+	"2020"	"2020"	"70-74 years"	"70-74"	"Female"	"F"	2798	7882542	35.5
+	"2020"	"2020"	"70-74 years"	"70-74"	"Male"	"M"	3778	6793189	55.6
+	"2020"	"2020"	"75-79 years"	"75-79"	"Female"	"F"	2749	5513149	49.9
+	"2020"	"2020"	"75-79 years"	"75-79"	"Male"	"M"	3253	4473684	72.7
+	"2020"	"2020"	"80-84 years"	"80-84"	"Female"	"F"	2947	3715123	79.3
+	"2020"	"2020"	"80-84 years"	"80-84"	"Male"	"M"	3003	2749591	109.2
+	"2020"	"2020"	"85-89 years"	"85-89"	"Female"	"F"	2848	Not Applicable	Not Applicable
+	"2020"	"2020"	"85-89 years"	"85-89"	"Male"	"M"	2377	Not Applicable	Not Applicable
+	"2020"	"2020"	"90-94 years"	"90-94"	"Female"	"F"	2108	Not Applicable	Not Applicable
+	"2020"	"2020"	"90-94 years"	"90-94"	"Male"	"M"	1362	Not Applicable	Not Applicable
+	"2020"	"2020"	"95-99 years"	"95-99"	"Female"	"F"	769	Not Applicable	Not Applicable
+	"2020"	"2020"	"95-99 years"	"95-99"	"Male"	"M"	345	Not Applicable	Not Applicable
+	"2020"	"2020"	"100+ years"	"100+"	"Female"	"F"	137	Not Applicable	Not Applicable
+	"2020"	"2020"	"100+ years"	"100+"	"Male"	"M"	34	Not Applicable	Not Applicable
+	"2020"	"2020"	"Not Stated"	"NS"	"Female"	"F"	0	Not Applicable	Not Applicable
+	"2020"	"2020"	"Not Stated"	"NS"	"Male"	"M"	0	Not Applicable	Not Applicable
+"---"
+"Dataset: Multiple Cause of Death, 1999-2020"
+"Query Parameters:"
+"UCD - ICD-10 Codes: C18.0 (Caecum - Malignant neoplasms); C18.1 (Appendix - Malignant neoplasms); C18.2 (Ascending colon -"
+"Malignant neoplasms); C18.3 (Hepatic flexure - Malignant neoplasms); C18.4 (Transverse colon - Malignant neoplasms); C18.5"
+"(Splenic flexure - Malignant neoplasms); C18.6 (Descending colon - Malignant neoplasms); C18.7 (Sigmoid colon - Malignant"
+"neoplasms); C18.8 (Overlapping lesion of colon - Malignant neoplasms); C18.9 (Colon, unspecified - Malignant neoplasms); C19"
+"(Malignant neoplasm of rectosigmoid junction); C20 (Malignant neoplasm of rectum)"
+"Group By: Year; Five-Year Age Groups; Sex"
+"Show Totals: Disabled"
+"Show Zero Values: True"
+"Show Suppressed: True"
+"Calculate Rates Per: 100,000"
+"Rate Options: Default intercensal populations for years 2001-2009 (except Infant Age Groups)"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/mcd.html for more information."
+"---"
+"Query Date: Sep 18, 2026 9:27:51 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Mortality 1999-2020 on CDC WONDER Online Database, released in 2021. Data are from the Multiple Cause of Death Files,"
+"1999-2020, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/mcd-icd10.html on Sep 18, 2026 9:27:51 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"---"
+Caveats:
+"1. Population and rates are labeled 'Not Applicable' when they include a subset of ages 85-100+ because populations are not"
+"available for those ages. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Ages 85-100."
+"2. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#2014-Revision."
+"3. Circumstances in Georgia for the years 2008 and 2009 have resulted in unusually high death counts for the ICD-10 cause of"
+"death code R99, ""Other ill-defined and unspecified causes of mortality."" Caution should be used in interpreting these data."
+"More information: http://wonder.cdc.gov/wonder/help/mcd.html#Georgia-Reporting-Anomalies."
+"4. Circumstances in New Jersey for the year 2009 have resulted in unusually high death counts for the ICD-10 cause of death code"
+"R99, ""Other ill-defined and unspecified causes of mortality"" and therefore unusually low death counts in other ICD-10 codes,"
+"most notably R95, ""Sudden Infant Death Syndrome"" and X40-X49, ""Unintentional poisoning."" Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#New-Jersey-Reporting-Anomalies."
+"5. Circumstances in California resulted in unusually high death counts for the ICD-10 cause of death code R99, ""Other"
+"ill-defined and unspecified causes of mortality"" for deaths occurring in years 2000 and 2001. Caution should be used in"
+"interpreting these data. More information: http://wonder.cdc.gov/wonder/help/mcd.html#California-Reporting-Anomalies."
+"6. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Assurance of Confidentiality."
+"7. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Unreliable."
+"8. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#Not Stated."
+"9. The population figures for year 2020 are bridged-race estimates of the July 1 resident population, from the Vintage 2020"
+"postcensal series released by NCHS on September 22, 2021. The population figures for year 2019 are bridged-race estimates of the"
+"July 1 resident population, from the Vintage 2019 postcensal series released by NCHS on July 9, 2020. The population figures for"
+"year 2018 are bridged-race estimates of the July 1 resident population, from the Vintage 2018 postcensal series released by NCHS"
+"on June 25, 2019. The population figures for year 2017 are bridged-race estimates of the July 1 resident population, from the"
+"Vintage 2017 postcensal series released by NCHS on June 27, 2018. The population figures for year 2016 are bridged-race"
+"estimates of the July 1 resident population, from the Vintage 2016 postcensal series released by NCHS on June 26, 2017. The"
+"population figures for year 2015 are bridged-race estimates of the July 1 resident population, from the Vintage 2015 postcensal"
+"series released by NCHS on June 28, 2016. The population figures for year 2014 are bridged-race estimates of the July 1 resident"
+"population, from the Vintage 2014 postcensal series released by NCHS on June 30, 2015. The population figures for year 2013 are"
+"bridged-race estimates of the July 1 resident population, from the Vintage 2013 postcensal series released by NCHS on June 26,"
+"2014. The population figures for year 2012 are bridged-race estimates of the July 1 resident population, from the Vintage 2012"
+"postcensal series released by NCHS on June 13, 2013. Population figures for 2011 are bridged-race estimates of the July 1"
+"resident population, from the county-level postcensal Vintage 2011 series released by NCHS on July 18, 2012. Population figures"
+"for 2010 are April 1 Census counts. The population figures for years 2001 - 2009, are bridged-race estimates of the July 1"
+"resident population, from the revised intercensal county-level 2000 - 2009 series released by NCHS on October 26, 2012."
+"Population figures for 2000 are April 1 Census counts. Population figures for 1999 are from the 1990-1999 intercensal series of"
+"July 1 estimates. Population figures for Infant Age Groups are the number of live births. <br/><b>Note:</b> Rates and population"
+"figures for years 2001 - 2009 differ slightly from previously published reports, due to use of the population estimates which"
+"were available at the time of release."
+"10. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/mcd.html#Age Group."
+"11. Changes to cause of death classification affect reporting trends. More information:"
+"http://wonder.cdc.gov/wonder/help/mcd.html#ICD-10 Changes."
