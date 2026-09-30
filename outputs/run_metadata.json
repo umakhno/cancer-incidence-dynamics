@@ -1,8 +1,9 @@
 {
   "seed": 20260918,
   "n_releases": 16,
-  "slope_age_offset": 0,
-  "matrix_age_offset": 5,
+  "crc_age_shift": 5.0,
+  "crc_age_convention": "DevCan interval-start label + 5 years",
+  "matrix_age_offset": 0.0,
   "crc_fit_window": [
     25,
     50
@@ -21,8 +22,8 @@
     55.0,
     60.0
   ],
-  "chapter_5_noise_sigma": 0.1289648034778736,
+  "chapter_5_noise_sigma": 0.1282691904569993,
   "chapter_7_covariance_simulations": 3000,
   "appendix_B_simulations": 3000,
-  "runtime_seconds": 26.139329195022583
+  "runtime_seconds": 28.509248971939087
 }

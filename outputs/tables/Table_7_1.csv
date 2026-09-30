@@ -1,9 +1,9 @@
 ﻿Form,Window,RSS OLS,dAICc OLS,RSS GLS,dAICc GLS
-stage removal,25-60,1.683,0.0,1.456,0.0
-slow growth,25-60,1.372,3.968,1.173,3.877
-detection lead,25-60,3.342,5.49,3.665,7.388
-uniform growth,25-60,22.395,16.975,64.85,26.64
-stage removal,25-50,0.517,0.0,0.569,0.0
-slow growth,25-50,0.478,9.537,0.535,9.626
-detection lead,25-50,0.598,0.874,0.751,1.667
-uniform growth,25-50,12.216,13.979,32.407,19.253
+stage removal,25-60,1.85,0.0,1.506,0.0
+slow growth,25-60,1.686,4.855,1.349,4.723
+detection lead,25-60,3.407,4.882,3.689,7.169
+uniform growth,25-60,25.187,17.154,78.39,27.887
+stage removal,25-50,0.643,1.118,0.643,0.0
+slow growth,25-50,0.469,9.23,0.506,8.563
+detection lead,25-50,0.533,0.0,0.649,0.06
+uniform growth,25-50,14.35,14.753,39.093,19.649
