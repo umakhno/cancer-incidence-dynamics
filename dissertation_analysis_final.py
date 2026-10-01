@@ -2760,7 +2760,7 @@ ax.axvspan(
     2016,
     color="red",
     alpha=0.12,
-    label="registry break (colorectal)",
+    label="2013–2016 discontinuity (colorectal)",
 )
 
 ax.set_xlabel("SEER release (year)")
@@ -2829,7 +2829,7 @@ for nm, l0, k0, c in (
         color=c,
         label=(
             f"{nm} "
-            f"(k={k0:.2f}, lambda={l0:.5f})"
+            rf"($k$={k0:.2f}, $\lambda$={l0:.5f})"
         ),
     )
 
@@ -3050,7 +3050,7 @@ print("  ✓ Table 3.1 uses d log F / d log x")
 print("  ✓ Figures 3.3–3.4 use the same S(x)")
 print("  ✓ ΔLLA uses the same S(x)")
 print("  ✓ Tables 3.2–3.3 use the same ΔLLA")
-print("  ✓ Table 3.4 uses unshifted DevCan ages")
+print("  ✓ Table 3.4 uses corrected colorectal ages (label + 5)")
 print("  ✓ Chapter 3 internal consistency checks passed")
 
 # =====================================================================
@@ -4101,6 +4101,11 @@ for i, value in enumerate(values):
         ha="center",
     )
 
+ax.set_ylim(
+    0,
+    values.max() * 1.12,
+)
+
 ax.set_ylabel(
     r"$\Delta$AIC$_c$"
 )
@@ -4373,7 +4378,7 @@ for midpoint, value in zip(
 ):
 
     ax.annotate(
-        f"{value:+.3f}",
+        f"{value:+.4f}",
         (
             midpoint,
             value,
@@ -4387,6 +4392,10 @@ for midpoint, value in zip(
 ax.axhline(
     0,
     lw=1,
+)
+
+ax.margins(
+    y=0.15
 )
 
 ax.set_xlabel(
@@ -6130,6 +6139,10 @@ image = ax.imshow(
     vmax=100,
 )
 
+# column of the true mechanism for each row:
+# lead, lead, stages, uniform
+TRUE_COL = [0, 0, 1, 3]
+
 for i in range(
     CONFUSION.shape[0]
 ):
@@ -6140,10 +6153,10 @@ for i in range(
         ax.text(
             j,
             i,
-            f"{CONFUSION[i, j]:.0f}",
+            f"{CONFUSION[i, j]:.1f}",
             ha="center",
             va="center",
-            fontsize=13,
+            fontsize=12,
             color=(
                 "white"
                 if CONFUSION[i, j] > 50
@@ -6151,7 +6164,7 @@ for i in range(
             ),
             fontweight=(
                 "bold"
-                if i == j
+                if j == TRUE_COL[i]
                 else None
             ),
         )
@@ -6174,9 +6187,12 @@ ax.set_yticks(
 )
 
 ax.set_yticklabels(
-    list(
-        SCENARIOS
-    )
+    [
+        r"lead $\Delta = 3$",
+        r"lead $\Delta = 18$",
+        r"stages $j = 1.6$",
+        r"uniform $\beta = 0.30$",
+    ]
 )
 
 ax.grid(
@@ -6194,7 +6210,7 @@ ax.set_ylabel(
 ax.set_title(
     f"Share of runs, % "
     f"({N_BOOT_SELECTION} per row, "
-    f"sigma={SIGMA:.3f})"
+    rf"$\sigma$ = {SIGMA:.3f})"
 )
 
 fig.colorbar(
