@@ -1,24 +1,24 @@
 # Cancer Incidence Dynamics
 
-Reproducible computational analysis accompanying a master's dissertation on age-specific cancer incidence dynamics, multistage carcinogenesis, and cohort effects.
+Code, source data and generated outputs for the MSc dissertation
+
+**Age-Specific Patterns in Early-Onset Colorectal Cancer Incidence: Separating Carcinogenesis from Detection**
+Uliana Makhno, MSc Mathematics (MAM410), City St George's, University of London, 2026.
 
 ## Overview
 
-This repository contains the final Python analysis pipeline, source data, and generated outputs used to reproduce the computational results reported in the dissertation.
+This repository contains the final Python analysis pipeline, the source data it reads, and the figures and tables it generates. Running the pipeline reproduces the computed results, figures and tables reported in the dissertation.
 
-The analysis includes:
+The pipeline covers:
 
-- age-specific cancer incidence analysis;
-- multistage carcinogenesis modelling;
-- colorectal and pan-cancer analyses;
-- cohort-based dynamic modelling;
-- screening and detection-related analyses;
-- GLS estimation;
-- sensitivity analyses;
-- internal consistency checks;
-- validation of reproduced dissertation values.
+- Weibull fits and log-log slope analysis of DevCan cumulative incidence (Chapter 3);
+- the cohort matrix model fitted to incidence and mortality, 1999–2020 (Chapter 4);
+- robustness analyses, including the parametric bootstrap (Chapter 5);
+- the GLS comparison under dependent slope estimates (Section 7.3);
+- the multistage matrix calculations of Appendices A and B and the indices of Appendix C;
+- validation of the numerical values quoted in the dissertation.
 
-The final pipeline successfully reproduces all 121 dissertation values included in the validation framework and passes all 39 internal consistency checks.
+A complete run reproduces all 119 dissertation values registered in the validation table and passes all 39 internal consistency checks. Two further values, the GLS ΔAICc differences reported in Table 7.1, are generated as a separate diagnostic and are not counted among the 119.
 
 ## Repository structure
 
@@ -41,94 +41,107 @@ The final pipeline successfully reproduces all 121 dissertation values included 
 
 ## Data sources
 
-The analysis combines cancer incidence, cause-specific mortality, and period life-table data from several U.S. data sources. The source files required by the analysis are included in the `data/` directory to facilitate computational reproducibility.
+All input files are included in `data/` so that the analysis can be rerun without further downloads.
 
-### DevCan data
-
-The principal age-incidence inputs are:
+### DevCan cumulative incidence
 
 - `Colorectal_Devcan.xlsx`
 - `Pan_Devcan.xlsx`
 
-These datasets contain age-specific cumulative probabilities of cancer diagnosis used in the colorectal and pan-cancer analyses.
+Cumulative probabilities of diagnosis by age, F(x), for colorectal cancer and for all cancer sites combined, in 16 diagnosis periods from 1975–1977 to 2018–2021 (2020 excluded). Both files were taken from Blair Colyer's CancerIncidenceStan repository, <https://github.com/BlairColyer/CancerIncidenceStan> (accessed 30 September 2026), where they were extracted from SEER data with the NCI DevCan software.
 
-The colorectal series is the primary series used in the analysis, while the pan-cancer series provides a methodological comparison with a different age-incidence profile.
+A diagnosis period is the calendar interval represented by one DevCan observation. Where the dissertation refers to a DevCan release, it means that observation, not the calendar interval.
 
-### United States Cancer Statistics
+**Age convention.** The colorectal file labels each row by the start of a five-year age interval, whereas F(x) refers to the end of that interval. The script therefore uses age = label + 5 for the colorectal series (`CRC_AGE_SHIFT = 5.0`). The pan-cancer file already uses interval endpoints and is read unchanged.
 
-The file
+### United States Cancer Statistics (incidence)
 
 `United States and Puerto Rico Cancer Statistics, 1999-2022 Incidence.xls`
 
-contains cancer incidence data obtained from the United States Cancer Statistics (USCS) database through CDC WONDER.
+Annual colorectal cancer incidence (site: Colon and Rectum) by five-year age group. Source: United States Cancer Statistics Working Group, 2025 release, accessed through CDC WONDER, <https://wonder.cdc.gov/cancer-v2022.html> (accessed 18 September 2026). The analysis uses 1999–2020 and the age groups 25–29 to 60–64.
 
-These data are used for analyses requiring population-based cancer incidence estimates.
-
-### Multiple Cause of Death
-
-The file
+### Multiple Cause of Death (mortality)
 
 `Multiple Cause of Death, 1999-2020 CRC.xls`
 
-contains colorectal cancer mortality data obtained from the CDC WONDER Multiple Cause of Death database.
+Annual colorectal cancer deaths by five-year age group, underlying cause ICD-10 C18.0–C18.9, C19 and C20. Source: National Center for Health Statistics, Multiple Cause of Death 1999–2020, accessed through CDC WONDER, <https://wonder.cdc.gov/mcd-icd10.html> (accessed 18 September 2026).
 
-These data are used for analyses involving cause-specific colorectal cancer mortality.
+Both CDC WONDER files are tab-separated text exports despite the `.xls` extension, and the script reads them as such.
 
-### United States Mortality DataBase
-
-The file
+### Life tables (background mortality)
 
 `Lifetables.zip`
 
-contains period life-table data from the United States Mortality DataBase (USMDB), developed at the University of California, Berkeley as part of the Human Mortality Database project.
+United States Mortality Database period life tables. Source: Winant, C. (2026), *US State Life Tables by State, Age, Sex, Year: 1959–2023*, Harvard Dataverse, V1, <https://doi.org/10.7910/DVN/ZSHJEK> (CC0 1.0; accessed 30 September 2026). The script uses the national table for both sexes combined, `USA_bltper_5x1.txt`. The tables cover 1959–2023. The cohort model projects each cohort from birth, so it also needs calendar years before 1959; for those years the script uses the 1959 table.
 
-The USMDB provides period life tables indexed by calendar year and organised by geographic area, sex, and age. The life-table data provide population survival and mortality information used where required by the computational analysis.
+## Reproducing the analysis
 
-## Reproducibility
-
-Install the required Python packages with:
+Install the dependencies:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-Run the complete analysis from the repository root with:
+Run the pipeline from the repository root:
 
 ```bash
 python dissertation_analysis_final.py
 ```
 
-The pipeline writes generated figures and tables to:
+A complete run typically takes about one minute on a standard laptop. Figures are written to `outputs/figures/` and tables to `outputs/tables/`. All simulations use fixed random seeds, so repeated runs give identical output.
 
-```text
-outputs/figures/
-outputs/tables/
-```
+The script was tested with Python 3.11, NumPy 2.4, pandas 3.0, SciPy 1.17 and Matplotlib 3.10. `openpyxl` is required to read the DevCan workbooks.
 
-The analysis also generates validation outputs that compare reproduced numerical results with the values reported in the dissertation and performs a set of internal consistency checks.
+The input and output locations can be changed with the environment variables `DISS_ROOT` (the folder containing `data/`) and `DISS_OUT` (the output folder).
 
-A successful final run reproduces all 121 dissertation values included in the validation framework and passes all 39 internal consistency checks.
+## Outputs and their numbering
 
-## Requirements
+Output file names retain their development numbering. The dissertation was later shortened to meet the page limit, so file numbers do not always match those in the final text, and the repository contains supplementary outputs not included in the dissertation.
 
-The analysis was implemented in Python and uses the following packages:
+### Figures in the dissertation
 
-- NumPy
-- pandas
-- SciPy
-- Matplotlib
-- openpyxl
-- xlrd
+| Dissertation | File in `outputs/figures/` |
+|---|---|
+| Figure 2.1 | `Fig_2_1.png` |
+| Figure 3.1 (a), (b) | `Fig_3_1.png`, `Fig_3_2.png` |
+| Figure 3.2 (a), (b) | `Fig_3_3.png`, `Fig_3_4.png` |
+| Figure 3.3 (a), (b) | `Fig_3_5.png`, `Fig_3_6.png` |
+| Figure 3.4 | `Fig_3_8.png` |
+| Figure 3.5 | `Fig_3_9.png` |
+| Figure 4.1 | `Fig_4_1.png` |
+| Figure 4.2 | `Fig_4_2.png` |
+| Figure 4.3 | `Fig_4_3.png` |
+| Figure 4.4 | `Fig_4_4.png` |
+| Figure 4.5 | `Fig_4_5.png` |
+| Figure 5.1 | `Fig_5_7.png` |
+| Figure 5.2 | `Fig_5_11.png` |
 
-The required dependencies are listed in `requirements.txt`.
+All other files in `outputs/figures/` are supplementary.
 
-## Outputs
+### Tables in the dissertation
 
-The `outputs/` directory contains the figures and tables generated by the final analysis pipeline.
+| Dissertation | File in `outputs/tables/` |
+|---|---|
+| Table 2.1 | `Table_2_1.csv` |
+| Table 3.1 | `Table_3_1.csv` |
+| Table 3.2 | `Table_3_2.csv` |
+| Table 3.3 | `Table_3_3.csv` |
+| Table 3.4 | `Table_3_3a.csv` |
+| Table 3.5 | `Table_3_4.csv` |
+| Table 4.1 | `Table_4_1.csv` |
+| Table 4.2 | `Table_4_2.csv` |
+| Table 5.1 | `Table_5_1.csv` |
+| Table 5.2 | `Table_5_2.csv` |
+| Table 6.1 | `Table_6_2.csv` |
+| Table 7.1 | `Table_7_1.csv` |
+| Table A.1 | `Table_A_2.csv` |
+| Table B.1 | `Table_B_2.csv` |
+| Tables C.1, C.2 | `Table_E_1.csv`, `Table_E_2.csv` |
 
-In particular, the validation tables include:
+Files named `Table_S…` and `Diagnostic_…` contain supplementary results quoted in the text, including the fixed-k sensitivity of Section 4.2, the age-band and grid sensitivity of Section 5.4, and the bootstrap selection frequencies of Section 5.5.
 
-- `Validation_dissertation_vs_reproduced.csv` — comparison between dissertation values and values reproduced by the final pipeline;
-- `Validation_internal_consistency.csv` — results of the automated internal consistency checks.
+### Validation files
 
-These files provide a direct record of the numerical reproducibility checks performed by the pipeline.
+- `Validation_dissertation_vs_reproduced.csv` lists each registered numerical value quoted in the dissertation alongside the value computed by the pipeline. Agreement is judged at the precision printed in the dissertation. The `Where` column uses the development numbering described above.
+- `Validation_internal_consistency.csv` records the 39 internal checks, including checks that tables and figures are generated from the same underlying arrays.
+- `Output_manifest.csv` lists every file written by a complete run.
